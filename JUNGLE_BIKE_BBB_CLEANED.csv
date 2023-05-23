@@ -1,0 +1,1096 @@
+,Rèf.,Type_de_produit,Longueur(mm),Largeur(mm),Hauteur(mm),Rayon Ø(mm),Volume(L),Taille,Contenance,Couleur,Modèle
+3,BAP-02,BOUCHONS HEADSET,,,,,,,,noir,"""roundhead"" 1 1/8"""
+4,BAP-03,BOUCHONS HEADSET,,,,,,,,noir,"pour fourche carbone""powerhead"" 1.1/8"""
+5,BAP-03,BOUCHONS HEADSET,,,,,,,,,"pour fourche carbone""powerhead"" 1.1/8"""
+9,BBB-11,SONNETTES,,,,,,,,,"""loud & clear"""
+10,BBB-14,SONNETTES,,,,,,,,,""" easyfit"" deluxe"
+11,BBB-16,SONNETTES,,,,,,,,,"légère laiton ""minifit"""
+12,BBB-17,SONNETTES,,,,,,,,,"extra light ""noisy"""
+13,BBB-11D,SONNETTES,,,,,,,,,"boîte présentoir 20  ""loud & clear"""
+14,BBB-14D,SONNETTES,,,,,,,,,"boite présentoir 20  ""easyfit"" deluxe"
+15,BBB-16D,SONNETTES,,,,,,,,,"boite présentoir 20  ""minifit"""
+16,BBB-17D,SONNETTES,,,,,,,,,"boite présentoir 20  ""noisy"""
+17,BBB-18,SONNETTES,,,,,,,,,"""e sound"""
+21,BBC-01,PORTE-BIDONS,,,,,,,,,"""ecotank"""
+22,BBC-03,PORTE-BIDONS,,,,,,,,,bottlecage fueltank
+23,BBC-36,PORTE-BIDONS,,,,,,,,,"""flexcage"""
+24,BBC-37,PORTE-BIDONS,,,,,,,,,carbone ud
+25,BBC-38R,PORTE-BIDONS,,,,,,,,,"latérale carbone ud droit ""sidecarbon"""
+26,BBC-38L,PORTE-BIDONS,,,,,,,,,"latérale carbone ud gauche ""sidecarbon"""
+27,BBC-39,PORTE-BIDONS,,,,,,,,,"""dualcage"" composite"
+28,BBC-99,PORTE-BIDONS,,,,,,, 100,,boite  vis
+29,BBC-40,PORTE-BIDONS,,,,,,,,,"laterale composite ""dualattack"""
+30,BBC-41,PORTE-BIDONS,,,,,,,,,"""fastcage"""
+31,BBC-81,PORTE-BIDONS,,,,,,,,,"sup bagage ""stackrack"""
+32,BBC-90,PORTE-BIDONS,,,,,,,,,sup pour 2 recharges co2hold
+33,BBC-95,PORTE-BIDONS,,,,,,,,,sup   pour cintre ou tige de selle
+34,BBC-110,PORTE-BIDONS,240.0,,,10-8,,,0,,"collier pour fixer   ""cagefix"""
+35,BBC-111,PORTE-BIDONS,,,,,,,,,"sup  à sangle ""haulermount"""
+36,BBC-112,PORTE-BIDONS,,,,,,,,,plateforme bagage strapplate
+37,BBC-113,PORTE-BIDONS,,,,,,,,,sup double
+38,BBC-120,PORTE-BIDONS,143.0,,,,,S,,,"décaleur fixation   ""adaptrail"""
+39,BBC-120,PORTE-BIDONS,208.0,,,,,M,,,"décaleur fixation   ""adaptrail"""
+40,BBC-120,PORTE-BIDONS,302.0,,,,,L,,,"décaeur fixation   ""adaptrai"""
+44,BBE-01,EMBOUTS DE CINTRE,,,,,,,,noir,"""trail monkey"" roit"
+45,BBE-05,EMBOUTS DE CINTRE,,,,,,,,noir,"""three "" roit"
+46,BBE-07,EMBOUTS DE CINTRE,,,,,,,,noir,"""classic"" courbé"
+47,BBE-08 ,EMBOUTS DE CINTRE,,,,,,,,noir,"""3 forge"""
+48,BBE-17,EMBOUTS DE CINTRE,95.0,,,,,,,noir,"""lightstraight"""
+49,BBE-18 ,EMBOUTS DE CINTRE,150.0,,,,,,,noir,"""lightcurve"" courbé"
+50,BBE-50 ,EMBOUTS DE CINTRE,,,,,,,,noir,bouchons   plug & play
+54,BBL-23,ANTIVOLS,1800.0,10.0,,,,,,,"cable de rallonge ""extrastraight"""
+55,BBL-24,ANTIVOLS,1200.0,5.0,,,,,,,"chaine ""extrachain"""
+56,BBL-26  ,ANTIVOLS,10.0,10.0,1000000.0,,,,,,"chaine ""powerchain"""
+57,BBL-28,ANTIVOLS,170.0,250.0,,,,,,,en uvault
+58,BBL-31  ,ANTIVOLS,1500.0,8.0,,,,,,,powersafe
+59,BBL-31  ,ANTIVOLS,1500.0,12.0,,,,,,,powersafe
+60,BBL-32,ANTIVOLS,1000.0,12.0,,,,,,,"""powersafe"""
+61,BBL-35,ANTIVOLS,1500.0,6.0,,,,,,,"""codesafe"""
+62,BBL-35,ANTIVOLS,1500.0,10.0,,,,,,,"""codesafe"""
+63,BBL-36,ANTIVOLS,1000.0,10.0,,,,,,,"""codesafe"""
+64,BBL-41  ,ANTIVOLS,1800.0,12.0,,,,,,,powerlock
+65,BBL-41  ,ANTIVOLS,1800.0,15.0,,,,,,,powerlock
+66,BBL-42,ANTIVOLS,1000.0,12.0,,,,,,,powerlock
+67,BBL-45,ANTIVOLS,1800.0,12.0,,,,,,,codelock
+68,BBL-45,ANTIVOLS,1800.0,15.0,,,,,,,codelock
+69,BBL-46,ANTIVOLS,1000.0,12.0,,,,,,,codelock
+70,BBL-47,ANTIVOLS,1000.0,18.0,,,,,,,codearmor
+71,BBL-48,ANTIVOLS,,,,,,,,,"chaine ""powerlink"""
+72,BBL-49,ANTIVOLS,1000.0,5.0,,,,,,,"chaine ""codelink"""
+73,BBL-51,ANTIVOLS,1500.0,4.8,,,,,,,fixation microloop
+74,BBL-52,ANTIVOLS,1200.0,3.0,,,,,,,minisafe
+75,BBL-53,ANTIVOLS,,,,,,,,,"""minicase"""
+76,BBL-61,ANTIVOLS,1500.0,8.0,,,,,,,quicksafe
+77,BBL-63,ANTIVOLS,2000.0,8.0,,,,,,,"cable avec boucle ""quickloop"""
+78,BBL-66,ANTIVOLS,1200.0,8.0,,,,,,noir,quickco
+79,BBL-67,ANTIVOLS,1000.0,4.5,,,,,,noir,chaine  quickchain
+80,BBL-71,ANTIVOLS,,,,,,,,,"pliable en acier trempé ""powerfold"""
+81,BBL-92,ANTIVOLS,,,,,,,,,fixation cablefix
+82,BBL-93,ANTIVOLS,,,,,,,,,fixation cabletie
+86,BBM-01,RETROVISEUR,,,,,,,,noir,"rétroviseur guidon ""eview"" gauche"
+87,BBM-01,RETROVISEUR,,,,,,,,noir,"rétroviseur guidon ""eview"" droit"
+91,BBO-01,BOITIER PEDALIER,68.0,,,46,,,,,"pédalier ""bottompress"" press fit pf30  route"
+92,BBO-05,BOITIER PEDALIER,73.0,,,46,,,,,"pédalier ""bottompress"" press fit pf30  vtt"
+93,BBO-09,BOITIER PEDALIER,73.0,,,46,,,,,"pédalier ""bottomfit"" pf30"
+94,BBO-16,BOITIER PEDALIER,,,,24,,,,,"réducteur pf30  ""bottomadap"" pour monter un axe"
+95,BBO-17,BOITIER PEDALIER,,,,,,,,,réducteur bb386 evo 24
+96,BBO-19,BOITIER PEDALIER,73.0,,,42,,,,,"pédalier ""bottombear"" bb30"
+97,BBO-21,BOITIER PEDALIER,86.5,,,41,,,,,"pédalier ""bottompress"" press fit bb86 route"
+98,BBO-25,BOITIER PEDALIER,89.5,41.0,,,,,,,"pédalier ""bottompress"" press fit bb86 vtt"
+99,BBO-26,BOITIER PEDALIER,,,,,,,,,roulements press fit acier chromé bb9095
+100,BBO-29,BOITIER PEDALIER,92.0,,,41,,,,,"pédalier ""bottomfit"" bb86/92"
+101,BBO-29SR,BOITIER PEDALIER,86.0,41.0,,,,,,,"pédalier ""bottomfix"" gpx"
+102,BBO-38,BOITIER PEDALIER,24.0,1.37,,,,,,,"pédalier ""bottomthread"" bsa dub"
+103,BBO-39SR,BOITIER PEDALIER,24.0,1.37,,,,,,,"pédalier ""bottomthread"" bsa gxp"
+104,BBO-39,BOITIER PEDALIER,24.0,1.37,,,,,,,"pédalier ""bottomthread"" bsa"
+105,BBO-41,BOITIER PEDALIER,37.0,25.0,6.0,,,,,,"roulement press fit inox ""bottombear"" compatible campa"
+106,BBO-78,BOITIER PEDALIER,68.0,46.0,,,,,,,"""bottomfit"" dub pf30 to 29"
+107,BBO-79,BOITIER PEDALIER,73.0,,,46,,,,,"pédalier ""bottomfit"" pf30"
+108,BBO-88,BOITIER PEDALIER,68.0,42.0,,,,,,,"pédalier ""bottomfit"" dub bb30 to 29"
+109,BBO-89,BOITIER PEDALIER,73.0,,,42,,,,,"pédalier ""bottomfit"" bb30"
+110,BBO-91,BOITIER PEDALIER,2.0,2.0,,24,,,,,"set de rondelles ""shimset"" pour   .5mm .0mm .5mm"
+111,BBO-102,BOITIER PEDALIER,7.0,30.0,,,,, 20,,tube  roulements bb30  42 x id
+112,BBO-103,BOITIER PEDALIER,6.8,29.0,,,,, 20,,tube  roulements dub c40xid
+113,BBO-105,BOITIER PEDALIER,7.0,24.0,,,,, 20,,tube  roulements 37 x id
+114,BBO-111,BOITIER PEDALIER,0.5,30.0,,,,, 20,,sachet  rondelles 36 x id
+115,BBO-112,BOITIER PEDALIER,1.0,30.0,,,,, 20,,sachet  rondelles 36 x id
+116,BBO-113,BOITIER PEDALIER,2.5,30.0,,,,, 20,,sachet  rondelles 36 x id
+117,BBO-121,BOITIER PEDALIER,0.5,24.0,,,,, 20,,sachet  rondelles 30 x id
+118,BBO-122,BOITIER PEDALIER,1.0,24.0,,,,, 20,,sachet  rondelles 30 x id
+119,BBO-123,BOITIER PEDALIER,2.5,24.0,,,,, 20,,sachet  rondelles 30 x id
+120,BBO-125,BOITIER PEDALIER,,,,24,,, 20,,sachet  rondelles alvéolées
+121,BBO-126,BOITIER PEDALIER,,,,30,,, 20,,sachet  rondelles alvéolées
+125,BBP-12M,PROTECTION,,,,,,M,,,"base ""stayguard"""
+126,BBP-12L,PROTECTION,,,,,,L,,,"base ""stayguard"""
+127,BBP-21,PROTECTION,50.0,260.0,,,,,,,"caoutchouc autocollante ""stayskin"""
+128,BBP-50 ,PROTECTION,,,,,,S,,transparent,"cadre ""bikekin"""
+129,BBP-51,PROTECTION,,,,,,S,,,"cadre ""bikekin"""
+130,BBP-56,PROTECTION,,,,,,S,,,cadre
+131,BBP-57,PROTECTION,,,,,,,,transparent,"kit  cadre ""clearskin"""
+132,BBP-60,PROTECTION,50.0,500.0,,,,,,,"cadre ""tubeskin"" pour tube"
+133,BBP-61,PROTECTION,70.0,500.0,,,,XL,,,"cadre  ""frameskin""  500mm70mm"
+137,BBS-01D,PATINS X 4,,,,,,,,noir,standard roadstop  delue
+138,BBS-02 ,PATINS X 4,,,,,,,,argent,porte +  roadstop type shi
+139,BBS-02 ,PATINS X 4,,,,,,,,noir,porte +  roadstop type shi
+140,BBS-03A   ,PATINS X 4,,,,,,,,noir,cartouches de rempl. roadstop type shi
+141,BBS-03C ,PATINS X 4,,,,,,,,noir,cartouches de rempl.roadstop type campa
+142,BBS-04,PATINS X 4,,,,,,,,noir,monobloc veestop
+143,BBS-05 ,PATINS X 4,,,,,,,,noir,porte  a cartouches veestop
+144,BBS-06 ,PATINS X 4,,,,,,,,noir,cartouche de rempl. veestop
+145,BBS-07,PATINS X 4,72.0,,,,,,,noir,cantilever cantistop
+146,BBS-08,PATINS X 4,65.0,,,,,,,noir,cantilever cantistop
+147,BBS-09,PATINS X 4,,,,,,,,noir,frein hydrostop
+148,BBS-14T ,PATINS X 4,,,,,,,,,porte +  tristop 3coul
+149,BBS-15T ,PATINS X 4,,,,,,,,,cartouches de remplacement tristop 3coul
+150,BBS-16,PATINS X 4,,,,,,,,noir,monobloc tristop
+151,BBS-16T,PATINS X 4,,,,,,,,,monobloc tristop 3coul
+152,BBS-18T,PATINS X 4,,,,,,,,,cantilever cantistop delue
+153,BBS-22T,PATINS X 4,,,,,,,,,porte +  techstop type shi 3coul
+154,BBS-22HP,PATINS X 4,,,,,,,,,"porte route +  hp ""techstop"" type shi"
+155,BBS-27,PATINS X 4,,,,,,,,noir,"cartouches ""techstop"" compat. shi/sram/campa cartridges (pcs)"
+156,BBS-27T,PATINS X 4,,,,,,,,,"cartouches ""techstop"" compat. shi/sram/campa cartridges (pcs)"
+157,BBS-28HP,PATINS X 4,,,,,,,,blanc/bleu,"cartouches hp ""ultrastop"" compat. shi/sram/campa cartridges (pcs)"
+158,BBS-29,PATINS X 4,,,,,,,,blanc/gris,"cartouches hp carbone ""ultrastop"" compat. shi/sram/campa cartridges (pcs)"
+160,BBS-01DX2,PATINS X 2,,,,,,,,noir,"standard ""roadstop"" delue 1paire"
+161,BBS-02X2,PATINS X 2,,,,,,,,noir,porte +  roadstop type shi 1paire
+162,BBS-03A,PATINS X 2,,,,,,,,noir,cartouches de rempl. roadstop type shi 1paire
+163,BBS-04X2,PATINS X 2,,,,,,,,noir,monobloc veestop 1paire
+164,BBS-05X2,PATINS X 2,,,,,,,,noir,porte  a cartouches veestop 1paire
+165,BBS-06X2,PATINS X 2,,,,,,,,noir,cartouche de rempl. veestop 1paire
+166,BBS-07X2,PATINS X 2,7.0,,,,,,,noir,cantilever cantistop  paire
+167,BBS-08X2,PATINS X 2,65.0,,,,,,,noir,cantilever cantistop  paire
+168,BBS-09X2,PATINS X 2,,,,,,,,noir,frein hydrostop 1paire
+171,BBS-01DP,PATINS,4.0,25.0,,,,,,,boite de  standard roadstop deluxe
+172,BBS-03AP ,PATINS,4.0,25.0,,,,,,,boite de cartouches de rempl. roadstop type shi
+173,BBS-04P,PATINS,4.0,25.0,,,,,,,boite de  monobloc veestop
+174,BBS-06P,PATINS,4.0,25.0,,,,,,noir,boite de cartouches de rempl. veestop
+175,BBS-07 P ,PATINS,4.0,25.0,,,,,,,boite de  cantilever cantistop 72mm
+176,BBS-15TP,PATINS,4.0,25.0,,,,,,,boite de cartouches de remplacement tristop 3coul
+177,BBS-16TP,PATINS,4.0,25.0,,,,,,,boite de  monobloc tristop 3coul
+178,BBS-27P,PATINS,4.0,25.0,,,,,,noir,"boite de cartouches ""techstop"""
+179,BBS-27TP,PATINS,4.0,25.0,,,,,,,"boite de cartouches ""techstop""  triple densité"
+180,BBS-28HPP,PATINS,4.0,25.0,,,,,,blanc/bleu,"boite de cartouches hp ""ultrastop"" /"
+181,BBS-29P,PATINS,4.0,25.0,,,,,,,"boite de cartouches hp carbone ""ultrastop"""
+185,BBS-30 ,ORGANIQUE,,,,,,,,bleu,plaquettes type mag.louise & clara '01
+186,BBS-31 ,ORGANIQUE,,,,,,,,bleu,plaquettes type mag.clara 2000
+187,BBS-33 ,ORGANIQUE,,,,,,,,bleu,plaquettes type mag.julie
+188,BBS-34 ,ORGANIQUE,,,,,,,,bleu,plaquettes type mag.marta
+189,BBS-35 ,ORGANIQUE,,,,,,,,bleu,plaquettes type mag.louise 2006
+190,BBS-36,ORGANIQUE,,,,,,,,bleu,"plaquettes type magura 2011, mt2, mt4, mt6, mt8"
+191,BBS-371,ORGANIQUE,,,,,,,,bleu,plaquettes type magura mt5
+192,BBS-372,ORGANIQUE,,,,,,,,bleu,plaquettes type magura mt7
+193,BBS-38,ORGANIQUE,,,,,,,,bleu,plaquettes type sram road hydraulique brakes
+194,BBS-39,ORGANIQUE,,,,,,,,bleu,plaquettes type avidsram xo trail
+195,BBS-42 ,ORGANIQUE,,,,,,,,bleu,plaquettes type avid juicy 7 and juicy 5w/spring
+196,BBS-43 ,ORGANIQUE,,,,,,,,bleu,plaquettes type avid ball bearing 5 w/spring
+197,BBS-441 ,ORGANIQUE,,,,,,,,bleu,plaquettes type avid elixir w/spring
+198,BBS-442,ORGANIQUE,,,,,,,,bleu,plaquettes type avid code r w/spring
+199,BBS-443,ORGANIQUE,,,,,,,,bleu,plaquette type avid db1/db3 w/spring
+200,BBS-45 ,ORGANIQUE,,,,,,,,bleu,plaquettes type hayes&promax hydraulique
+201,BBS-48 ,ORGANIQUE,,,,,,,,bleu,plaquettes type hayes sole hydraulique
+202,BBS-492,ORGANIQUE,,,,,,,,bleu,plaquettes type hayes stroker ry
+203,BBS-50 ,ORGANIQUE,,,,,,,,bleu,plaquettes type shimano xt till 03 / grimeca sys 8 / sram / hope mono m4 and cleg
+204,BBS-51 ,ORGANIQUE,,,,,,,,bleu,plaquettes type shimano deore m555 & nexave c901hydraulique
+205,BBS-52 ,ORGANIQUE,,,,,,,,bleu,"plaquettes type shimano deore mechanic m515, m465,m475,m495, nexave c501, c601, rst dpower"
+206,BBS-53 ,ORGANIQUE,,,,,,,,bleu,"plaquettes type shimano deore m525 hydraulic,m575, tektro drako"
+207,BBS-54 ,ORGANIQUE,,,,,,,,bleu,"plaquettes type shimano xtr, xt, lx, giant mph 2009"
+208,BBS-55,ORGANIQUE,,,,,,,,bleu,plaquettes type shimano new saint
+209,BBS-56,ORGANIQUE,,,,,,,,bleu,"plaquettes type shimano xtr 2011, xt, slx 2012 w/spring"
+210,BBS-58,ORGANIQUE,,,,,,,,bleu,plaquettes type hope tech x2/mini x2
+211,BBS-561,ORGANIQUE,,,,,,,,bleu,plaquettes type shimano flatmount brrs505/805  w/spring
+212,BBS-591,ORGANIQUE,,,,,,,,bleu,plaquettes type hope hp comp.w/hope e4
+213,BBS-66 ,ORGANIQUE,,,,,,,,bleu,plaquettes type formula oro
+214,BBS-67,ORGANIQUE,,,,,,,,bleu,"plaquettes type formula mega, the one, r1 and rx"
+215,BBS-68,ORGANIQUE,,,,,,,,bleu,plaquettes type formula cura 4
+216,BBS-75 ,ORGANIQUE,,,,,,,,bleu,plaquettes type tektro io/novela
+217,BBS-76,ORGANIQUE,,,,,,,,bleu,plaquettes type tektro iox /lyra
+218,BBS-77,ORGANIQUE,,,,,,,,bleu,"plaquettes type tektro sub/esub/twin/volans,  sr suntour mechanical"
+219,BBS-78,ORGANIQUE,,,,,,,,bleu,plaquette type tektro dorado hde710
+221,BBS-36S,MÉTAL FRITÉ,,,,,,,,or,"plaquettes type magura 2011, mt2, mt4, mt6, mt9"
+222,BBS-39S,MÉTAL FRITÉ,,,,,,,,or,plaquettes type avidsram xo trail sintered
+223,BBS-371S,MÉTAL FRITÉ,,,,,,,,or,plaquettes type magura mt5 sintered
+224,BBS-372S,MÉTAL FRITÉ,,,,,,,,or,plaquettes type magura mt7 sintered
+225,BBS-42S ,MÉTAL FRITÉ,,,,,,,,or,plaquettes type avid juicy 7  juicy 5 and juicy 3w/spring  ultimate sintered promax dsk950
+226,BBS-441S,MÉTAL FRITÉ,,,,,,,,or,plaquettes type avid elixir sintered w/spring
+227,BBS-52S,MÉTAL FRITÉ,,,,,,,,or,plaquettes type shimano dee m525 hydraulique sintered
+228,BBS-54S ,MÉTAL FRITÉ,,,,,,,,or,"plaquettes type shimano xtr, giant mph 2009 sintered"
+229,BBS-55S,MÉTAL FRITÉ,,,,,,,,or,plaquettes type shimano new saint sintered
+230,BBS-56S,MÉTAL FRITÉ,,,,,,,,or,plaquettes type shimano xtr new 2011 w/spring sintered
+231,BBS-561S,MÉTAL FRITÉ,,,,,,,,or,plaquettes type shimano flatmount brrs505/805  w/spring sintered
+232,BBS-66S ,MÉTAL FRITÉ,,,,,,,,or,plaquettes type fmula o sintered
+233,BBS-67S ,MÉTAL FRITÉ,,,,,,,,or,"plaquettes type fmula mega, the one, r1, rx and ro sintered"
+234,BBS-68S,MÉTAL FRITÉ,,,,,,,,or,plaquettes type fmula cura 4
+236,BBS-36T,TOURING,,,,,,,,,"plaquettes  type magura mt2, mt4, mt6, mt8"
+237,BBS-42T,TOURING,,,,,,,,,plaquettes  type avid juicy 7  juicy 5 and juicy 3w/spring  ultimate sintered promax dsk951
+238,BBS-43T,TOURING,,,,,,,,,plaquettes  type avid ball bearing 5 w/spring
+239,BBS-441T,TOURING,,,,,,,,,plaquettes  type avid elixir sintered w/spring
+240,BBS-53T,TOURING,,,,,,,,,"plaquettes  type shimano deore m525 hydraulic,m575, tektro drako"
+241,BBS-54T,TOURING,,,,,,,,,"plaquettes  type shimano xtr, xt, lx, giant mph 2009"
+242,BBS-56T,TOURING,,,,,,,,,"plaquettes  type shimano xtr 2011, xt, slx 2012 w/spring"
+243,BBS-67T,TOURING,,,,,,,,,"plaquettes  type formula mega, the one, r1,rx and ro"
+244,BBS-76T,TOURING,,,,,,,,,plaquettes  type tektro iox /lyra
+246,BBS-04E,FREINAGE E-BIKE,,,,,,,4,vert,patins brakshos stop
+247,BBS-09E,FREINAGE E-BIKE,,,,,,,4,vert,patins hydrostop
+248,BBS-36E,FREINAGE E-BIKE,,,,,,,,vert,"plaqutts   thyp magura mt2, mt4, mt6, mt8"
+249,BBS-371E,FREINAGE E-BIKE,,,,,,,,vert,discstop  comp.w/magura mt5
+250,BBS-372E,FREINAGE E-BIKE,,,,,,,,vert,discstop  comp.w/magura mt7
+251,BBS-53E,FREINAGE E-BIKE,,,,,,,,vert,"plaqutts  thyp shi dor m575, m525, m486, m485 hydraulic, tktro draco, auriga comp, giant mph root"
+252,BBS-55E,FREINAGE E-BIKE,,,,,,,,vert,discstop  comp.w/shimano saint m810
+253,BBS-78E,FREINAGE E-BIKE,,,,,,,,vert,plaqutts  comp.w/tktro dorado hd710
+255,BBS-90,DISQUES & ACCESSOIRES,,,,,,,,,daptateur centerfit (nouveau modèle)
+256,BBS-91,DISQUES & ACCESSOIRES,180.0,,,,,,,,"daptateur postmount  ""powermount"""
+257,BBS-92,DISQUES & ACCESSOIRES,203.0,,,,,,,,"daptateur postmount  ""powermount"""
+258,BBS-92,DISQUES & ACCESSOIRES,160.0,,,,,,,,"dapteur ""powermount"""
+259,BBS-93F,DISQUES & ACCESSOIRES,,,,,,,,,"daptateur avant is vers pm 160 ""powermount"""
+260,BBS-93R,DISQUES & ACCESSOIRES,,,,,,,,,"daptateur arrière is vers pm 160 ""powermount"""
+261,BBS-94F,DISQUES & ACCESSOIRES,,,,,,,,,"daptateur avant is vers pm 180 ""powermount"""
+262,BBS-94R,DISQUES & ACCESSOIRES,,,,,,,,,"daptateur arrière is vers pm 180 ""powermount"""
+263,BBS-95F,DISQUES & ACCESSOIRES,,,,,,,,,"daptateur avant is vers pm 203 ""powermount"""
+264,BBS-95R,DISQUES & ACCESSOIRES,,,,,,,,,"daptateur arrière is vers pm 203 ""powermount"""
+265,BBS-96F,DISQUES & ACCESSOIRES,140.0,,,,,,,,"daptateur avant ""powermount"" fm to pm"
+266,BBS-96R,DISQUES & ACCESSOIRES,140.0,,,,,,,,"daptateur arrière ""powermount"" fm to pm"
+267,BBS-97F,DISQUES & ACCESSOIRES,160.0,,,,,,,,"daptateur avant ""powermount"" fm to pm"
+268,BBS-97R,DISQUES & ACCESSOIRES,160.0,,,,,,,,"daptateur arrière ""powermount"" fm to pm"
+269,BBS-98R,DISQUES & ACCESSOIRES,160.0,,,,,,,,"daptateur arrière ""powermount"" fm to fm"
+270,BBS-99,DISQUES & ACCESSOIRES,180.0,,,,,,,,"dapteur ""powermount"""
+271,BBS-101,DISQUES & ACCESSOIRES,,,,,,,,,kit de purge universel pour frein à
+272,BBS-102,DISQUES & ACCESSOIRES,,,,,,,,,"kit de purge ""bleedkit""sram compatible"
+273,BBS-111,DISQUES & ACCESSOIRES,140.0,,,,,,,,powerstop
+274,BBS-112,DISQUES & ACCESSOIRES,160.0,,,,,,,,powerstop
+275,BBS-113,DISQUES & ACCESSOIRES,180.0,,,,,,,,powerstop
+276,BBS-114,DISQUES & ACCESSOIRES,203.0,,,,,,,,powerstop
+277,BBS-115,DISQUES & ACCESSOIRES,220.0,,,,,,,,powerstop
+278,BBS-121,DISQUES & ACCESSOIRES,140.0,,,,,,,,"""centerstop""compatible centerlook"
+279,BBS-121,DISQUES & ACCESSOIRES,160.0,,,,,,,,"""centerstop""compatible centerlook"
+280,BBS-121,DISQUES & ACCESSOIRES,180.0,,,,,,,,"""centerstop""compatible centerlook"
+281,BBS-121,DISQUES & ACCESSOIRES,203.0,,,,,,,,"""centerstop""compatible centerlook"
+282,BBS-130,DISQUES & ACCESSOIRES,0.3,,,,,, 4,,"kit  entretoises  ""bolt shimset"""
+283,BBS-131,DISQUES & ACCESSOIRES,12.0,,,,,,,,ecrou centerlock centerblock qr /
+284,BBS-132,DISQUES & ACCESSOIRES,15.0,,,,,,,,ecrou centerlock centerblock  /
+286,,,,,,,,,,,plaquettes
+287,BBS-36P,DISQUES & ACCESSOIRES,,,,,,,20 ,,"display  plaquettes type magura mt2, mt4, mt6, mt8"
+288,BBS-36EP,DISQUES & ACCESSOIRES,,,,,,,20 ,,"display  plaquettes vae type magura mt2, mt4, mt6, mt8"
+289,BBS-39P,DISQUES & ACCESSOIRES,,,,,,,20 ,bleu,display  plaquettes type w/avidsram xo trail
+290,BBS-42P,DISQUES & ACCESSOIRES,,,,,,,20 ,,display  plaquettes type avid juicy 7  juicy 5 and juicy 3w/spring  ultimate promax dsk950
+291,BBS-441P,DISQUES & ACCESSOIRES,,,,,,,20 ,,display  plaquettes type avid elixir series w/spring
+292,BBS-441SP,DISQUES & ACCESSOIRES,,,,,,,20 ,,display  plaquettes métal frité type avid elixir series w/spring sintered
+293,BBS-492P,DISQUES & ACCESSOIRES,,,,,,,20 ,,display  plaquettes type hayes stroker ryde / dyno
+294,BBS-52P,DISQUES & ACCESSOIRES,,,,,,,20 ,,"display  plaquettes type shimano deore mechanic m515, m495, m475, m465, m416, nexave c501, c601, rst dpower, tektro aquila"
+295,BBS-52SP,DISQUES & ACCESSOIRES,,,,,,,20 ,,"display  plaquettes métal frité type shimano deore mechanic m515, m495, m475, m465, m416"
+296,BBS-53EP,DISQUES & ACCESSOIRES,,,,,,,,,"oem discstop   comp.w/shimano deore m575, m525, m486, m485 hydraulic, tektro draco, auriga comp, giant mph root gre"
+297,BBS-53TP,DISQUES & ACCESSOIRES,,,,,,,20 ,bleu,"display  plaquettes type w/shimano deore m575, m525, m486, m485 hydraulic, tektro draco, auriga comp, giant mph root"
+298,BBS-54P,DISQUES & ACCESSOIRES,,,,,,,20 ,,"display  plaquettes type shimano xtr m975, m966,m965, xtm775, m765, slx m665, lx m585, deore m535, saint m800 and hone m601"
+299,BBS-56P,DISQUES & ACCESSOIRES,,,,,,,20 ,,"display  plaquettes type shimano xtr 2011, xt, slx 2012 w/spring"
+300,BBS-56SP,DISQUES & ACCESSOIRES,,,,,,,,,"display 20 plaquettes éco type shimano xtr 2011, xt, slx 2012 w/spring"
+301,BBS-66P,DISQUES & ACCESSOIRES,,,,,,,20 ,,display  plaquettes type formula oro
+302,BBS-67P,DISQUES & ACCESSOIRES,,,,,,,20 ,,"display  plaquettes type formula mega, the one, r1,rx and ro"
+306,BBW-45,GANTS ÉTÉ ,,,,,,S,,,enfant
+307,BBW-47,GANTS ÉTÉ ,,,,,,XL,,,"femme ""omnium"""
+308,BBW-51,GANTS ÉTÉ ,,,,,,S,,,"""airroad"""
+309,BBW-52,GANTS ÉTÉ ,,,,,,XXL,,noir,"long ""freezone"" memory foam"
+310,BBW-56,GANTS ÉTÉ ,,,,,,S,,,cooldown
+311,BBW-57,GANTS ÉTÉ ,,,,,,XL,,,equipe
+312,BBW-58,GANTS ÉTÉ ,,,,,,S,,,racer
+313,BBW-59,GANTS ÉTÉ ,,,,,,XL,,,highcomfort 2.0
+314,BBW-60,GANTS ÉTÉ ,,,,,,XXL,,,speed
+318,BBW-91,TEXTILE ÉTÉ,,,,,,,,noir,jambières thermo fabric
+319,BBW-92,TEXTILE ÉTÉ,,,,,,,,noir,manchettes thermo fabric
+320,BBW-93,TEXTILE ÉTÉ,,,,,,,,,genouillère noire
+321,BBW-99,TEXTILE ÉTÉ,,,,,,,,,bandana comforthat
+322,BBW-100,TEXTILE ÉTÉ,,,,,,,,,cagoule
+323,BBW-148 ,TEXTILE ÉTÉ,,,,,,,,noir,"imper  ""baseshield"""
+324,BBW-148 ,TEXTILE ÉTÉ,,,,,,,,jaune,"imper  ""baseshield"""
+325,BBW-182 ,TEXTILE ÉTÉ,,,,,,,,,"collant long ""quadra"" sans bretelles"
+326,BBW-184,TEXTILE ÉTÉ,,,,,,ENFANT,,,"collant long  ""quadra"" à bretelles"
+327,BBW-184,TEXTILE ÉTÉ,,,,,,,,,"collant long ""quadra"" à bretelles"
+328,BBW-213,TEXTILE ÉTÉ,,,,,,,,noir,"cuissard bretelles ""bib shorts"""
+329,BBW-214,TEXTILE ÉTÉ,,,,,,,,noir,"cuissard sans  bretelles ""powerfit shorts"""
+330,BBW-219,TEXTILE ÉTÉ,,,,,,,,noir,"cuissard bretelles ""corsa"""
+331,BBW-237,TEXTILE ÉTÉ,,,,,,,,noir,maillot ml jersey  en diamondsoft
+332,BBW-253,TEXTILE ÉTÉ,,,,,,,,,casquette   classico
+333,BBW-265,TEXTILE ÉTÉ,,,,,,,,,imper transpa stormshield  aquatec 10 0000
+334,BBW-268,TEXTILE ÉTÉ,,,,,,,,noir,veste deltashield
+335,BBW-270,TEXTILE ÉTÉ,,,,,,,,,pantalon léger anche deltashield
+336,BBW-275,TEXTILE ÉTÉ,,,,,,,,noir,"cuissard bretelles ""ultratech"""
+337,BBW-279,TEXTILE ÉTÉ,,,,,,,,noir,cuissard  femme sans bretelles omnium
+338,BBW-282,TEXTILE ÉTÉ,,,,,,,,noir,veste sans manches triguard
+339,BBW-293,TEXTILE ÉTÉ,,,,,,UNI-TAILLE,,noir,"sous casque ""comfort cap"""
+340,BBW-297,TEXTILE ÉTÉ,,,,,,,,noir,"cache cou ""comfortneck"""
+341,BBW-298,TEXTILE ÉTÉ,,,,,,,,noir,"sous casque ""windbreak"""
+342,BBW-299,TEXTILE ÉTÉ,,,,,,,,,"sous casque ""thermal"""
+343,BBW-300,TEXTILE ÉTÉ,,,,,,,,,"bandeau  ""headband"""
+344,BBW-310,TEXTILE ÉTÉ,,,,,,,,noir,"short ""element"""
+345,BBW-351R,TEXTILE ÉTÉ,,,,,,,,,collant long bretelles coldshield
+346,BBW-353,TEXTILE ÉTÉ,,,,,,,,,collant long bretelles wind block
+347,BBW-354R,TEXTILE ÉTÉ,,,,,,,,,"cuissard hiver ""coldshield"""
+348,BBW-355R,TEXTILE ÉTÉ,,,,,,,,,collant long femme coldshield ss bretelles
+349,BBW-358R,TEXTILE ÉTÉ,,,,,,,,noir,jambière coldshield leg warmers
+350,BBW-359R,TEXTILE ÉTÉ,,,,,,,,noir,manchettes coldshield arm warmers
+351,BBW-391,TEXTILE ÉTÉ,,,,,,,,,veste de pluie pocketshield
+352,BBW-392,TEXTILE ÉTÉ,,,,,,,,,veste de pluie pocketvest ss manches
+353,BBW-405,TEXTILE ÉTÉ,,,,,,S,,,maillot  roadtech ..
+354,BBW-407,TEXTILE ÉTÉ,,,,,,S,,,maillot  comfortfit 2.0 ..
+355,BBW-411,TEXTILE ÉTÉ,,,,,,,,,maillot  femme donna ss
+356,BBW-451,TEXTILE ÉTÉ,,,,,,,,noir,"veste ""triguard"" 2.0"
+357,BBW-455,TEXTILE ÉTÉ,,,,,,,,jaune,"veste ""controlshield"" 2.0"
+358,BBW-481,TEXTILE ÉTÉ,,,,,,,,,"veste de pluie ""stormshield"" 2.0"
+359,BBW-492,TEXTILE ÉTÉ,,,,,,UNI-TAILLE,,,tour de cou infrarouge firneck
+360,BBW-493,TEXTILE ÉTÉ,,,,,,UNI-TAILLE,,,"bonnet ""thermohat"""
+364,BCA-90,PORTE-BAGAGES,,,,,,,,,sangles pour bca02/02
+368,BCB-10 ,CABLES & GAINES ATELIER,2000.0,1.1,,,,,,,"dérailleur ""speedwire"" tefloné"
+369,BCB-10C,CABLES & GAINES ATELIER,,,,,,,,,"dérailleur ""speedwire"" tefloné campa"
+370,BCB-11 ,CABLES & GAINES ATELIER,2000.0,1.1,,,,,,,"dérailleur ""speedwire"" inox"
+371,BCB-12C ,CABLES & GAINES ATELIER,2000.0,1.1,,,,,,,"dérailleur ""speedwire"" inox compatible campa"
+372,BCB-13,CABLES & GAINES ATELIER,2350.0,1.1,,,,,,or,"dérailleur ""speedwire"" type shi"
+373,BCB-13C,CABLES & GAINES ATELIER,2350.0,1.1,,,,,,or,"dérailleur ""speedwire"" type campa"
+374,BCB-15,CABLES & GAINES ATELIER,2500.0,4.0,,,,,,noir,"dérailleur ""shiftline"""
+375,BCB-20C,CABLES & GAINES ATELIER,2350.0,1.5,,,,,,,"frein téfloné route campa ""brakewire"""
+376,BCB-20M,CABLES & GAINES ATELIER,2350.0,1.5,,,,,,,"frein téfloné vtt ""brakewire"""
+377,BCB-20R,CABLES & GAINES ATELIER,2000.0,1.5,,,,,,,"frein téfloné route ""brakewire"""
+378,BCB-21M,CABLES & GAINES ATELIER,2350.0,1.5,,,,,,,"frein inox vtt ""brakewire"""
+379,BCB-21R,CABLES & GAINES ATELIER,2000.0,1.5,,,,,,,"frein inox route ""brakewire"""
+380,BCB-22C ,CABLES & GAINES ATELIER,2000.0,1.5,,,,,,,"frein route  vtt ""brakewire""inox ""campa"""
+381,BCB-23R,CABLES & GAINES ATELIER,2350.0,1.5,,,,,,,"frein ""brakewire"" route type shi"
+382,BCB-23C,CABLES & GAINES ATELIER,2350.0,1.5,,,,,,,"frein ""brakewire"" route type campa"
+383,BCB-25,CABLES & GAINES ATELIER,2500.0,5.0,,,,,,noir,"frein ""stopline"""
+384,BCB-31,CABLES & GAINES ATELIER,2000.0,1.1,,,,, 100,,"boite   dérailleur ""speedwire"" type shi"
+385,BCB-31L,CABLES & GAINES ATELIER,2350.0,1.1,,,,, 100,,"boite   dérailleur ""speedwire"" type shi"
+386,BCB-32C,CABLES & GAINES ATELIER,2350.0,1.1,,,,, 100,,boite   dérailleur speedwire type campa
+387,BCB-35,CABLES & GAINES ATELIER,2000.0,1.1,,,,, 50,,"boite   dérailleur téfloné ""speedwire"""
+388,BCB-36,CABLES & GAINES ATELIER,2350.0,1.1,,,,, 100,,boite  de dérailleur speedwire
+389,BCB-41F,CABLES & GAINES ATELIER,1100.0,1.5,,,,, 100,,"boite   freins vtt ""brakewire"""
+390,BCB-41R ,CABLES & GAINES ATELIER,1700.0,1.5,,,,, 100,,"boite   freins vtt ""brakewire"""
+391,BCB-41L ,CABLES & GAINES ATELIER,2350.0,1.5,,,,, 50,,"boite   freins vtt ""brakewire"""
+392,BCB-42CR ,CABLES & GAINES ATELIER,1700.0,1.5,,,,, 100,,"boite   route type campa ""brakewire"""
+393,BCB-43SF ,CABLES & GAINES ATELIER,900.0,1.5,,,,, 100,,"boite   route type shimano ""brakewire"""
+394,BCB-43SR ,CABLES & GAINES ATELIER,1700.0,1.5,,,,, 100,,"boite   route type shimano ""brakewire"""
+395,BCB-45M,CABLES & GAINES ATELIER,2000.0,1.5,,,,, 50,,"boite   frein vtt téfloné ""brakewire"""
+396,BCB-46R,CABLES & GAINES ATELIER,2000.0,1.5,,,,, 50,,"boite   frein route téfloné ""brakewire"""
+397,BCB-47R,CABLES & GAINES ATELIER,2350.0,1.5,,,,, 100,,"boite   de frein route ""brakewire"""
+398,BCB-50LC,CABLES & GAINES ATELIER,50000.0,5.0,,,,,,,"frein lubrifiée noire ""stopline"""
+399,BCB-50WLC,CABLES & GAINES ATELIER,50000.0,5.0,,,,,,,"frein lubrifiée blanche ""stopline"""
+400,BCB-51,CABLES & GAINES ATELIER,50000.0,5.0,,,,,,noir,"gaîne ""stopline"" pour freins cex"
+401,BCB-51G,CABLES & GAINES ATELIER,50000.0,5.0,,,,,,gris,"gaîne ""stopline"" pour freins cex"
+402,BCB-51W,CABLES & GAINES ATELIER,50000.0,5.0,,,,,,blanc,"gaîne ""stopline"" pour freins cgx"
+403,BCB-52,CABLES & GAINES ATELIER,50000.0,4.0,,,,,,noir,"gaîne ""shiftline"" pour derailleur lex"
+404,BCB-52,CABLES & GAINES ATELIER,50000.0,4.0,,,,,,argent,"gaîne ""shiftline"" pour derailleur lex"
+405,BCB-52G,CABLES & GAINES ATELIER,50000.0,4.0,,,,,,gris,"gaîne ""shiftline"" pour derailleur lex"
+406,BCB-52W,CABLES & GAINES ATELIER,50000.0,4.0,,,,,,blanc,"gaîne ""shiftline"" pour derailleur lex"
+407,BCB-53LC,CABLES & GAINES ATELIER,50000.0,4.0,,,,,,,"dérailleur lubrifiée noire ""shiftline"""
+408,BCB-53WLC,CABLES & GAINES ATELIER,50000.0,4.0,,,,,,,"dérailleur lubrifiée blanche ""shiftline"""
+409,BCB-54,CABLES & GAINES ATELIER,50000.0,5.0,,,,,,noir,"dérailleur 5mm lex ""shiftline"""
+410,BCB-54,CABLES & GAINES ATELIER,50000.0,5.0,,,,,,argent,"dérailleur 5mm lex ""shiftline"""
+411,BCB-90D,CABLES & GAINES ATELIER,4.0,,,,,,2,noir,"protection de   ""wrap"""
+412,BCB-90B ,CABLES & GAINES ATELIER,5.0,,,,,,2,noir,"protection de   ""wrap"""
+413,BCB-91 ,CABLES & GAINES ATELIER,,,,,,,2,,cou freins v brake veepipe
+414,BCB-93 ,CABLES & GAINES ATELIER,,,,,,,,noir,"butée réglable ""adjuster"" pour  dérailleur"
+415,BCB-94  ,CABLES & GAINES ATELIER,,,,,,,3,,support durite adhésif  hydrocamp
+416,BCB-95,CABLES & GAINES ATELIER,4.0,,,,,,2,,"butée réglable pour  de  ""lineadjuster"""
+417,BCB-96,CABLES & GAINES ATELIER,,,,,,,2,,"butée réglable ""line adjuster"" pour  dér."
+418,BCB-97,CABLES & GAINES ATELIER,,,,,,,  40,noir,embouts  pcs
+419,BCB-98,CABLES & GAINES ATELIER,5.0,,,,,,,noir,"connection rotative pour   ""connect"""
+420,BCB-99,CABLES & GAINES ATELIER,5.0,,,,,,,noir,kit de butées  + embouts
+421,BCB-150,CABLES & GAINES ATELIER,4.0,,,,,,150 ,,butée de  plastique
+422,BCB-151,CABLES & GAINES ATELIER,4.0,,,,,,100 ,alu,butée
+423,BCB-152,CABLES & GAINES ATELIER,4.0,,,,,,100 ,alu,butée de   étanche
+424,BCB-153,CABLES & GAINES ATELIER,4.0,,,,,,50 ,alu,butée de   avec fourreau
+425,BCB-154,CABLES & GAINES ATELIER,,,,,,,500 ,noir/alu,embouts  dérailleur
+426,BCB-154,CABLES & GAINES ATELIER,,,,,,,500 ,alu/alu,embouts  dérailleur
+427,BCB-160,CABLES & GAINES ATELIER,5.0,,,,,,150 ,cuivre,butée
+428,BCB-161,CABLES & GAINES ATELIER,5.0,,,,,,100 ,alu,butée
+429,BCB-162,CABLES & GAINES ATELIER,5.0,,,,,,100 ,alu,butée de   étanche
+430,BCB-163,CABLES & GAINES ATELIER,5.0,,,,,,50 ,alu,butée de   avec fourreau
+431,BCB-164,CABLES & GAINES ATELIER,,,,,,,500 ,noir,embouts  frein
+432,BCB-164,CABLES & GAINES ATELIER,,,,,,,500 ,alu,embouts  frein
+433,BCB-170,CABLES & GAINES ATELIER,,,,,,,150 ,,protection pour  en silicone
+434,BCB-171,CABLES & GAINES ATELIER,,,,,,,25 ,,protection pour  spirale noire
+435,BCB-172,CABLES & GAINES ATELIER,,,,,,,25 ,,protection pour  spirale blanche
+436,BCB-173,CABLES & GAINES ATELIER,,,,,,,50 ,,connecteur de  noire
+437,BCB-174,CABLES & GAINES ATELIER,,,,,,,20 ,,butée réglable pour levier frein m7
+438,BCB-175,CABLES & GAINES ATELIER,5.0,,,,,,50 ,,protection pour  spiral noire
+439,BCB-190,CABLES & GAINES ATELIER,,,,,,,290 ,,kit de pièces pour freins et dérailleurs mécanique
+440,BCB-200,CABLES & GAINES ATELIER,2.0,5.0,,,,,,,durite frein hydraulique sram/avid/formula/magura  .1mm id
+441,BCB-201,CABLES & GAINES ATELIER,2.0,5.0,,,,,,,durite frein hydraulique shimano  .3mm
+442,BCB-210,CABLES & GAINES ATELIER,2.1,,,,,,50 ,cuivre,inserts pour durite  sram/avid id
+443,BCB-211,CABLES & GAINES ATELIER,2.2,,,,,,50 ,cuivre,inserts pour durite  magura  id
+444,BCB-212,CABLES & GAINES ATELIER,2.3,,,,,,50 ,cuivre,inserts pour durite  shimano  id
+445,BCB-220,CABLES & GAINES ATELIER,5.0,,,,,,50 ,olive,compression sram/avid
+446,BCB-221,CABLES & GAINES ATELIER,5.0,,,,,,50 ,olive,compression magura
+447,BCB-222,CABLES & GAINES ATELIER,5.0,,,,,,50 ,olive,compression shimano
+448,BCB-230,CABLES & GAINES ATELIER,,,,,,,25 ,,compression nut  sram/avid  stainless steel
+449,BCB-231,CABLES & GAINES ATELIER,,,,,,,25 ,,compression nut  magura mt2/4/6/8  stainless steel
+450,BCB-232,CABLES & GAINES ATELIER,,,,,,,25 ,,compression nut  shimano  stainless steel
+451,BCB-240,CABLES & GAINES ATELIER,2.1,,,,,,25 ,,banjo pour durite sram/avid  id
+452,BCB-241,CABLES & GAINES ATELIER,2.1,,,,,,25 ,,banjo pour durite magura  id
+453,BCB-242,CABLES & GAINES ATELIER,2.1,,,,,,25 ,,banjo pour durite shimano  id hose
+454,BCB-250,CABLES & GAINES ATELIER,5.0,,,,,,25 ,,ecrou pour banjo  sram/avid/magura/shimano
+455,BCB-251,CABLES & GAINES ATELIER,1.0,6.0,,,,,100,cuivre,"rondelles en  ""oring"" pour dot  mineral  od9mm id"
+456,BCB-260,CABLES & GAINES ATELIER,0.0,4.0,,,,,50 ,,vis de serrage plaquettes m.7  27mm
+457,BCB-261,CABLES & GAINES ATELIER,0.0,4.0,,,,,50 ,,vis de serrage plaquettes m.7  32mm
+458,BCB-280,CABLES & GAINES ATELIER,2.1,,,,,,,,"kit embouts de durite hydraulique ""fittingkit"" compatible sram"
+459,BCB-282,CABLES & GAINES ATELIER,2.1,,,,,,,,"kit embouts de durite hydraulique ""fittingkit"" compatible shimano"
+460,BCB-290,CABLES & GAINES ATELIER,,,,,,,155 ,,kit de pièces pour frein hydraulique
+464,BCH-010,CHAINES,114000.0,,,,,,,gris/gris,"""singleline"" mono vitesse aillons"
+465,BCH-011,CHAINES,114000.0,,,,,,,argent,"""singleline"" mono vitesse aillons"
+466,BCH-80 ,CHAINES,114000.0,,,,,,,gris,"""powerline""  vit aillons"
+467,BCH-81 ,CHAINES,114000.0,,,,,,,gris/nickel,"""powerline""  vit aillons"
+468,BCH-82 ,CHAINES,114000.0,,,,,,,nickel/nickel,"""powerline""  vit aillons"
+469,BCH-90,CHAINES,114000.0,,,,,,,gris,"""powerline""  vit aillons"
+470,BCH-91,CHAINES,114000.0,,,,,,,gris/nickel,"""powerline""  vit aillons"
+471,BCH-92 ,CHAINES,114000.0,,,,,,,nickel/nickel,"""powerline""  vit aillons"
+472,BCH-101,CHAINES,114000.0,,,,,,,gris/nickel,"""powerline""  vit aillons"
+473,BCH-102,CHAINES,114000.0,,,,,,,nickel/nickel,"""powerline""  vit aillons"
+474,BCH-112,CHAINES,114000.0,,,,,,,nickel/nickel,powerline vit aillon
+475,BCH-122,CHAINES,126000.0,,,,,,,nickel,powerline vitesses aillon
+477,BCH-01,ATTACHE-RAPIDES,,,,,,,,argent,springlink  mono vitesse
+478,BCH-01S,ATTACHE-RAPIDES,,,,,,,,argent,smartlink mono vitesse
+479,BCH-08 ,ATTACHE-RAPIDES,,,,,,,,argent,smartlink  8 vit
+480,BCH-09,ATTACHE-RAPIDES,,,,,,,,argent,smartlink  9 vit
+481,BCH-10,ATTACHE-RAPIDES,,,,,,,,argent,smartlink  10 vit
+482,BCH-11S,ATTACHE-RAPIDES,,,,,,,,,smartlink 11 vit
+483,BCH-12S,ATTACHE-RAPIDES,,,,,,,,nickel,smartlink 12 vit
+484,BCH-01SP,ATTACHE-RAPIDES,,,,,,,50 ,,"display   ""smartlink"" mono vitesse"
+485,BCH-08P,ATTACHE-RAPIDES,,,,,,,50 ,,"display   ""smartlink"" 8 vitesses"
+486,BCH-09P,ATTACHE-RAPIDES,,,,,,,50 ,,"display   ""smartlink"" 9 vitesses"
+487,BCH-10P,ATTACHE-RAPIDES,,,,,,,50 ,,"display   ""smartlink"" 10 vitesses"
+488,BCH-11SP,ATTACHE-RAPIDES,,,,,,,50 ,,"display   ""smartlink"" 11 vitesses"
+489,BCH-12SP,ATTACHE-RAPIDES,,,,,,,50 ,,"display   ""smartlink"" 12 vitesses"
+491,BCH-01E,CHAINES E-BIKE,,,,,,,30,,"mono vit ""powrlin"""
+492,BCH-8E,CHAINES E-BIKE,,,,,,,30,,"8 vit ""powrlin"""
+493,BCH-9E,CHAINES E-BIKE,,,,,,,30,,"9 vit ""powrlin"""
+494,BCH-10E,CHAINES E-BIKE,,,,,,,30,,"10 vit ""powrlin"""
+495,BCH-11E,CHAINES E-BIKE,,,,,,,30,,"11 vit ""powrlin"""
+497,BCH-010P,CHAINES OEM,,,,,,, 5,gris,"sachet    ""singleline"" single speed"
+498,BCH-80P,CHAINES OEM,,,,,,, 5,gris,"sachet     ""powerline"" 8 v"
+499,BCH-90P,CHAINES OEM,,,,,,, 5,gris,"sachet     ""powerline"" 9 v"
+500,BCH-101P,CHAINES OEM,,,,,,, 5,grey/nickel,"sachet     ""powerline"" 10 v"
+501,BCH-112P,CHAINES OEM,,,,,,, 5,nickel,"sachet     ""powerline"" 11 v"
+505,BCP-05,COMPTEURS,,,,,,,,noir/argent,"filaire ""dashboard""  7 fonctions"
+506,BCP-06,COMPTEURS,,,,,,,,noir/gris,filaire dashboard 10 fonctions
+507,BCP-15W,COMPTEURS,,,,,,,,noir/argent,"sans fil ""dashboard"" 10 fonctions"
+508,BCP-16W,COMPTEURS,,,,,,,,noir/gris,"sans fil ""dashboard"" 12 fonctions"
+509,BCP-25,COMPTEURS,,,,,,,,noir/argent,"filaire ""nanoboard"" 7 fonctions"
+510,BCP-26,COMPTEURS,,,,,,,,noir/gris,"filaire ""nanoboard"" 12 fonctions"
+511,BCP-35W,COMPTEURS,,,,,,,,noir/argent/black,"sans fil ""nanoboard  11 fonctions wireless  silver"
+512,BCP-36W,COMPTEURS,,,,,,,,noir/gris/black,"sans fil ""nanoboard  14 fonctions wireless  silver"
+513,BCP-40W,COMPTEURS,,,,,,,,noir,digiboard bt ant+ plus bcp61db
+514,BCP-55,COMPTEURS,,,,,,,,,capteur de vitesse ant+ digiboard
+515,BCP-56,COMPTEURS,,,,,,,,,capteur de cadence ant+ digiboard
+516,BCP-61DB,COMPTEURS,,,,,,,,,cadence pédalage + capteur vitesse bluetooth 4.0 smart et ant+
+517,BCP-62DB,COMPTEURS,,,,,,,,,ceinture cardiaque bluetooth 4.0 smart et ant+
+518,BCP-65,COMPTEURS,,,,,,,,,"capteur de vitesse moyeux ""smartspeed""  ant+/bluetooth"
+519,BCP-66,COMPTEURS,,,,,,,,,"capteur de cadence ""smartcadence"" ant+/bluetooth"
+520,BCP-68,COMPTEURS,,,,,,,,,"imant de roue light ""smartmagnet"""
+521,BCP-69,COMPTEURS,,,,,,,,,"imant manivelle pour cadence ""cadancemagnet"""
+522,BCP-96,COMPTEURS,,,,,,,,alu,"support  gps & go pro ""ergomount"""
+526,BCR-04 ,PLATEAUX,,,,,,,,,"vtt ""roundabout"" 4 branches"
+527,BCR-05 ,PLATEAUX,,,,,,,,,"vtt ""roundabout"" 4 branches"
+528,BCR-06 ,PLATEAUX,,,,,,,,,"vtt ""roundabout"" 4 branches"
+529,BCR-07 ,PLATEAUX,,,,,,,,,"vtt ""roundabout"" 4 branches avec rivets"
+530,BCR-08 ,PLATEAUX,,,,,,,,,"vtt ""roundabout"" 4 branches avec rivets"
+531,BCR-11S ,PLATEAUX,,,,,,,,,"""roadgear"" compatible shimano"
+532,BCR-11S ,PLATEAUX,,,,,,,,,"""roadgear"" compatible shimano"
+533,BCR-12S ,PLATEAUX,,,,,,,,,roadgear compatible nouveau duraace
+534,BCR-12S ,PLATEAUX,,,,,,,,,roadgear compatible nouveau duraace
+535,BCR-12S ,PLATEAUX,,,,,,,,,roadgear compatible nouveau duraace
+536,BCR-14S,PLATEAUX,,,,,,,,,"pour pédalier triple ""triplegear"
+537,BCR-15S,PLATEAUX,,,,,,,,,"pour pédalier triple ""triplegear"
+538,BCR-16S,PLATEAUX,,,,,,,,,"pour pédalier triple ""triplegear"
+539,BCR-21C ,PLATEAUX,,,,,,,,,"""roadgear"" compatible campagnolo"
+540,BCR-21C ,PLATEAUX,,,,,,,,,"""roadgear"" compatible campagnolo"
+541,BCR-26S,PLATEAUX,,,,,,,,,"4 branches ""elevengear"" compatible shi ult &duraace"
+542,BCR-27S,PLATEAUX,,,,,,,,,"4 branches ""elevengear"" compatible shi ult &duraace"
+543,BCR-27S,PLATEAUX,,,,,,,,,"4 branches ""elevengear"" compatible shi ult &duraace"
+544,BCR-31 ,PLATEAUX,,,,,,,,,"""compactgear"" compatible shimano"
+545,BCR-31 ,PLATEAUX,,,,,,,,,"""compactgear"" compatible shimano"
+546,BCR-31 ,PLATEAUX,,,,,,,,,"""compactgear"" compatible shimano"
+547,BCR-31 ,PLATEAUX,,,,,,,,,"""compactgear"" compatible shimano"
+548,BCR-36S,PLATEAUX,,,,,,,,,"""compactgear""  type shimano fc6750"
+549,BCR-37S,PLATEAUX,,,,,,,,,"""compactgear""  type shimano fc6755"
+550,BCR-43X,PLATEAUX,10.0,2.0,,,,,,,"vtt ""mtbgear"" sram x"
+551,BCR-44,PLATEAUX,9.0,1.0,,,,,,,"vtt 4 branches mono ""mtbgear""/10/11"
+552,BCR-45S,PLATEAUX,10.0,2.0,,,,,,,"vtt compact ""mtbgear"" shimano xt"
+553,BCR-46S,PLATEAUX,10.0,2.0,,,,,,,"vtt compact ""mtbgear"" shimano xt"
+554,BCR-46S,PLATEAUX,10.0,2.0,,,,,,,"vtt compact ""mtbgear"" shimano xt"
+555,BCR-47S,PLATEAUX,10.0,3.0,,,,,,,"vtt ""mtbgear"""
+556,BCR-48S,PLATEAUX,10.0,3.0,,,,,,,"vtt ""mtbgear"""
+557,BCR-49S,PLATEAUX,10.0,3.0,,,,,,,"vtt ""mtbgear"""
+558,BCR-50S,PLATEAUX,10.0,3.0,,,,,,,"vtt ""mtbgear"""
+559,BCR-51 ,PLATEAUX,,,,,,,,,"boulons pour  ""hexstars""  aluminum"
+560,BCR-52,PLATEAUX,,,,,,,,noir,"boulons pour  ""triplestars"""
+561,BCR-59S,PLATEAUX,,,,,,,,,"boulon de  ""fourstars"" compatible shi 11v 4 branches"
+562,BCR-60,PLATEAUX,,,,,,,,,"boulon de  ""singlestars"" compatible bcr44"
+563,BCR-60S,PLATEAUX,,,,,,,,,"boulon de  ""singlestars"" compatible bcr44 30t"
+564,BCR-61,PLATEAUX,,,,,,,,,kit de capuchons pour boulons  shi ult 110
+565,BCR-62,PLATEAUX,,,,,,,,,kit de capuchons pour boulons  shi ult 130
+566,BCR-63,PLATEAUX,,,,,,,,,kit de capuchons pour boulons  shi ult 4 branches
+567,BCR-80A,PLATEAUX,,,,,,, 53,,guide chaine pour   à 34 dents
+568,BCR-100S,PLATEAUX,11.0,2.0,,,,,,,"vtt ""mtbgear"" shimano xt m8000"
+569,BCR-101S,PLATEAUX,11.0,2.0,,,,,,,"vtt ""mtbgear"" shimano xt m8000"
+570,BCR-105S,PLATEAUX,11.0,1.0,,,,,,,"vtt ""mtbgear"" shimano xt m8000"
+572,BCR-70E,PIGNONS E-BIKE,,,,,,,,,"va "" sprock"" 14/15/16/17/18/19/20"
+576,BDP-01,GALETS,,,,,,,,noir,"""rollerboys"" 10 dents"
+577,BDP-02,GALETS,,,,,,,,noir,"""rollerboys"" 11 dents"
+578,BDP-05  ,GALETS,,,,,,,,noir,"""rollerboys"" 11 dents compatible sram"
+579,BDP-06,GALETS,,,,,,,,noir,"""rollerboys"" 12t sram narrowwi"
+580,BDP-07,GALETS,,,,,,,,,"dérailleur ""rollerboys"" 12t14t compatible sram"
+581,BDP-11  ,GALETS,,,,,,,,noir,"roulements céramique ""rollerboys"" 10 dents"
+582,BDP-12 ,GALETS,,,,,,,,noir,"roulements céramique ""rollerboys"" 11 dents"
+583,BDP-16,GALETS,,,,,,,,noir,"roulements céramique ""rollerboys"" 12 dents sram narrowwi"
+584,BDP-17,GALETS,,,,,,,,,"roulements céramique ""rollerboys"" 12t14t compatible sram"
+585,BDP-21,GALETS,,,,,,,,gris,dérailleurs aluboys 11t
+586,BDP-22,GALETS,,,,,,,,,dérailleurs aluboys 11t
+587,BDP-02P,GALETS,,,,,,, 50,,boite  paires  dents
+591,BFD-01 ,GARDE-BOUES,,,,,,,,noir,"""rainwarriors"" av et ar 26 & 28"" & 24"
+592,BFD-03 ,GARDE-BOUES,,,,,,,,noir,"""mudcatcher"" ii"
+593,BFD-04,GARDE-BOUES,,,,,,,,noir,"route ""roadcatcher"" ii"
+594,BFD-13F ,GARDE-BOUES,,,,,,,,noir,"avant ""mtbprotector"" ii vtt"
+595,BFD-13R ,GARDE-BOUES,,,,,,,,noir,"arrière ""mtbprotector"" ii vtt"
+596,BFD-15F,GARDE-BOUES,,,,,,,,noir,"vant ""highprotector"""
+597,BFD-15R,GARDE-BOUES,,,,,,,,noir,"rrière ""highprotector"""
+598,BFD-16F ,GARDE-BOUES,,,,,,,,,"avant ""grandprotect"" vtt 27,5"" à 29"""
+599,BFD-16R,GARDE-BOUES,,,,,,,,,"arrière ""grandprotect"" vtt 27,5"" à 29"""
+600,BFD-16XLF,GARDE-BOUES,,,,,,XL,,,"rrière grandprotect  vtt 28/29"""
+601,BFD-16XLR,GARDE-BOUES,,,,,,XL,,,"vant grandprotect  vtt 28/29"""
+602,BFD-18,GARDE-BOUES,,,,,,XL,,noir,"avant ""mudcatcher "" vtt"
+603,BFD-21F ,GARDE-BOUES,,,,,,,,noir,"avant ""roadprotector"" route"
+604,BFD-21R ,GARDE-BOUES,,,,,,,,noir,"arrière ""roadprotector"" route"
+605,BFD-21FB ,GARDE-BOUES,10.0,,,,,,,noir,fixation complète +
+606,BFD-22,GARDE-BOUES,,,,,,,,noir,"route av & ar à tringles""slimguard"""
+607,BFD-25,GARDE-BOUES,,,,,,,,noir,"rainprotectorsavant et arrière 26/28"""
+608,BFD-31,GARDE-BOUES,,,,,,,,,"léger av ou ar en polypropylène ""flexfender"""
+609,BFD-35F,GARDE-BOUES,,,,,,,,,"léger avant en polypropylène ""fatfender"""
+610,BFD-35R,GARDE-BOUES,,,,,,,,,"léger arrière en polypropylène ""fatfender"""
+611,BFD-40,GARDE-BOUES,,,,,,,,,"tringles 20"" cityguard avant & arrière"
+612,BFD-40,GARDE-BOUES,,,,,,,,,"tringles 28"" cityguard avant & arrière"
+613,BFD-91A,GARDE-BOUES,,,,,,,,,"système fixation gb  aéro ""ringfix"""
+614,BFD-92,GARDE-BOUES,,,,,,,,noir,"système fixation gb "" minifix"""
+618,BHB-07,CINTRES,,,,,,,,noir,"vtt ""skybar""  31.8  9d bs 5d us  al 6061"
+619,BHB-09,CINTRES,760.0,,,,,,,noir,vtt horizon
+620,BHB-09Di2,CINTRES,,,,,,,,noir,vtt di2 horizon 31.8  9d bs al 6061
+621,BHB-11,CINTRES,760.0,,,,,,,noir,vtt ascension
+622,BHB-11Di2,CINTRES,,,,,,,,noir,vtt di2 ascension 31.8  9d bs   5d us  al 6061
+623,BHB-12,CINTRES,800.0,,,35,,,,,"vtt ""skybar"""
+624,BHB-30  ,CINTRES,,,,,,,,noir,"trekking  ""multibar"""
+625,BHB-30OS  ,CINTRES,,,,,,,,noir,"trekking  ""multibar"" os 31,8"
+626,BHB-35,CINTRES,,,,,,,,,route racer 31.8
+627,BHB-36,CINTRES,,,,,,,,,"gravel 16d 6061 t6 31,8"
+628,BHB-52  ,CINTRES,,,,,,,,noir,"route ""aerobase"""
+629,BHB-41,CINTRES,720.0,,,,,,,,"carbone ""horizon""  d bs"
+630,BHB-42,CINTRES,760.0,,,,,,,,"carbone ""ascension""  d bs/d us"
+631,BHB-58,CINTRES,,,,,,,,noir,"route ""aerolight"""
+632,BHB-59,CINTRES,31.8,,,,,,,,erocomfort
+633,BHB-60,CINTRES,31.8,,,,,,,,éro réglable aeromax
+634,BHB-90,CINTRES,,,,,,,,,"fixation universelle pour  ""unifix"""
+638,BHE-05,CASQUES,,,,,,,,,icarus
+639,BHE-08,CASQUES,,,,,,,,,tithon
+640,BHE-09,CASQUES,,,,,,,,,"""maestro"""
+641,BHE-10,CASQUES,,,,,,,,,maestro mips
+642,BHE-22,CASQUES,,,,,,,,,"""dune mips"""
+643,BHE-29,CASQUES,,,,,,,,,kite
+644,BHE-35,CASQUES,,,,,,,,,condor
+645,BHE-37,CASQUES,,,,,,,,,boogy heart
+646,BHE-50,CASQUES,,,,,,,,,billy
+647,BHE-54,CASQUES,,,,,,,,,nanga
+648,BHE-56,CASQUES,,,,,,,,,indra speed 45
+649,BHE-56F,CASQUES,,,,,,,,,indra speed 45 avec masque intégré
+650,BHE-59,CASQUES,,,,,,,,,vtt shore
+651,BHE-62,CASQUES,,,,,,,,,erotop
+652,BHE-63,CASQUES,,,,,,,,,ecran hydrofobe pour  aerotop
+653,BHE-76,CASQUES,,,,,,,,,"couvre  ""aerocap"""
+654,BHE-151,CASQUES,,,,,,,,,hawk
+655,BHE-161,CASQUES,,,,,,,,,grid
+656,BHE-161ECO,CASQUES,,,,,,,,,grideco
+657,BHE-171,CASQUES,,,,,,,,,sonar
+661,BHG-27,POIGNEES,400.0,,,,,,,noir,poignée multifoam  long **
+662,BHG-28 ,POIGNEES,130.0,,,,,,,noir/noir,poignée foamgrip
+663,BHG-28G,POIGNEES,92.0,,,,,,,noir/noir,poignée foamgrip
+664,BHG-29,POIGNEES,400.0,,,,,,,noir/noir,poignée trekking exclusive  leather grips
+665,BHG-32,POIGNEES,128.0,,,,,,,noir,poignée foamwave
+666,BHG-35,POIGNEES,130.0,,,,,,,noir,poignée stickyfix
+667,BHG-71,POIGNEES,132.0,,,,,,,noir,"poignée ""ergofix"""
+668,BHG-82,POIGNEES,133.0,,,,,,,noir/gris,poignée ergotech
+669,BHG-83,POIGNEES,92.0,,,,,,,noir/gris,poignée ergotech /
+670,BHG-87,POIGNEES,92.0,,,,,,,noir/gris,poignée ergotechset  + embouts de cintre
+671,BHG-88,POIGNEES,133.0,,,,,,,noir/gris,poignée ergotechset  + embouts de cintre
+672,BHG-91,POIGNEES,130.0,,,,,,,noir,poignée cruiser / kraton
+673,BHG-92,POIGNEES,92.0,,,,,,,noir,poignée cruiser / kraton
+674,BHG-93,POIGNEES,92.0,,,,,,,noir,poignée cruiser / kraton
+675,BHG-95,POIGNEES,142.0,,,,,,,,poignée python
+676,BHG-96,POIGNEES,142.0,,,,,,,,poignée cobra
+677,BHG-97,POIGNEES,130.0,,,,,,,,"poignée  ""viper"""
+678,BHG-100,POIGNEES,130.0,,,,,,,,poignée mamba
+679,BHG-101,POIGNEES,130.0,,,,,,,,poignée mamba /
+680,BHG-102,POIGNEES,92.0,,,,,,,,poignée mamba
+681,BHG-103,POIGNEES,130.0,,,,,,,noir/gris,poignée boa
+682,BHG-104,POIGNEES,130.0,,,,,,,noir/gris,poignée boa /
+683,BHG-105,POIGNEES,92.0,,,,,,,noir/gris,poignée boa
+684,BHG-106,POIGNEES,130.0,,,,,,,,poignée mamba deluxe
+685,BHG-107,POIGNEES,92.0,,,,,,,,poignée mamba deluxe
+689,BHP-01 ,DIRECTIONS,,,,,,,,noir/noir,"jeux de  turnaround 1""  mat"
+690,BHP-02 ,DIRECTIONS,,,,,,,,noir/noir,"jeux de  turnaround 1.1/8""  mat"
+691,BHP-15,DIRECTIONS,,,,,,,,noir,"jeux de  threadaround 1"" treaded"
+692,BHP-20 ,DIRECTIONS,,,,,,,,noir/noir,jeux de  extender 25.4 / 22.2
+693,BHP-21 ,DIRECTIONS,,,,,,,,noir/noir,jeux de  extender 28.6 / 25.4
+694,BHP-22,DIRECTIONS,28.6,,,,,,,noir/noir,expandeur tubeextend
+695,BHP-35 ,DIRECTIONS,200.0,,,,,,,,"entretoise ultraspace /"" /// carbone brillant"
+696,BHP-36 ,DIRECTIONS,,,,,,,,,"entretoise lightspace 11/8"" 5/10/15/20"
+697,BHP-40,DIRECTIONS,41.8,,,,,,,,jeu de  integrated   alloy cone spacer
+698,BHP-41,DIRECTIONS,41.0,,,,,,,,jeu de  integrated   alloy cone spacer
+699,BHP-42,DIRECTIONS,41.8,,,,,,,,jeu de  integrated   alloy cone spacer
+700,BHP-45,DIRECTIONS,41.8,,,,,,,,"jeu de   tapered //"""
+701,BHP-46,DIRECTIONS,41.8,,,,,,,,"jeu de  tapered /"""
+702,BHP-50,DIRECTIONS,41.4,,,,,,,,jeu de  semiintegrated  id  alloy cone spacer
+703,BHP-51,DIRECTIONS,44.0,,,,,,,,jeu de  semiintegrated  id  alloy cone spacer
+704,BHP-53,DIRECTIONS,44.0,,,,,,,,"jeu de  semiintegré tapered  id /""  """
+705,BHP-54,DIRECTIONS,44.0,,,,,,,,"jeu de  semiintegré tapered / id /""  """
+706,BHP-55,DIRECTIONS,44.0,,,,,,,,"jeu de  semiintegrated tapered /"""""
+707,BHP-180,DIRECTIONS,6.5,41.5,,,,, 20,,"boite  roulements .1/8"""
+708,BHP-181,DIRECTIONS,8.0,8.0,,,,, 20,,"boite  roulements .1/8""  41.crmo 45°x45°"
+709,BHP-182,DIRECTIONS,6.5,41.0,,,,, 20,,"boite  roulements .1/8""  crmo 36°x45°"
+710,BHP-183,DIRECTIONS,7.0,8.0,,,,, 20,,"boite  roulements .1/4""  46.crmo 45°x45°"
+711,BHP-184,DIRECTIONS,6.5,48.9,,,,, 20,,"boite  roulements .3/8""  crmo 36°x45°"
+712,BHP-185,DIRECTIONS,8.0,8.0,,,,, 20,,"boite  roulements .5""     51.crmo 36°x45°"
+713,BHP-33OEM,DIRECTIONS,5.0,,,,,,,noir/black,"entretoise aluspace / , pcs polybag"
+714,BHP-33OEM,DIRECTIONS,10.0,,,,,,,noir/black,"entretoise aluspace /, pcs polybag"
+715,BHP-33OEM,DIRECTIONS,15.0,,,,,,,noir/black,"entretoise aluspace /, pcs polybag"
+716,BHP-33OEM,DIRECTIONS,20.0,,,,,,,noir/black,"entretoise aluspace /, pcs polybag"
+720,BHS-08,POTENCES,,,,,,,,,roadforce ii  +/6d 31.8  6061 3d alloy
+721,BHS-09,POTENCES,,,,,,,,,"light ""stem rider"" +/7d 31.8"
+722,BHS-24,POTENCES,,,,,,,,,vtt highrise 35d
+723,BHS-25,POTENCES,,,,,,,,,"vtt highrise os 35d 31,8"
+724,BHS-26,POTENCES,,,,,,,,,vtt toprise di2 30d 31.8
+725,BHS-28,POTENCES,,,,,,,,,"headset ajustable ""highsix""  25,4"
+726,BHS-29,POTENCES,,,,,,,,,"headset ajustable ""highsix"" 31,8"
+727,BHS-30,POTENCES,,,,35,,,,,justable highsix
+728,BHS-34,POTENCES,,,,,,,,,"justable ""highfix""  25,4"
+729,BHS-35,POTENCES,,,,,,,,,"justable ""highfix"" 31,8"
+730,BHS-36,POTENCES,,,,,,,,,"""downforce"" +/17d 31.8"
+731,BHS-38Di2,POTENCES,,,,,,,,,di2 jumper di2  0° 31.8
+732,BHS-39,POTENCES,,,,,,,,,vtt jumper od 35 6061 t6
+733,BHS-91,POTENCES,,,,,,,,,daptateur gopro + garmin pour  bbb 09/37
+734,BHS-92,POTENCES,,,,,,,,,daptateur gopro pour  bbb 09/37/38di2
+738,BHT-01 ,RUBAN DE GUIDONS,,,,,,,,,guion raceribbon
+739,BHT-04 ,RUBAN DE GUIDONS,,,,,,,,,guion raceribbon type carbone
+740,BHT-05,RUBAN DE GUIDONS,,,,,,,,,guion raceribbon gel
+741,BHT-12,RUBAN DE GUIDONS,,,,,,,,,guion speeribbon
+742,BHT-14,RUBAN DE GUIDONS,,,,,,,,,guion flexribbon gel
+743,BHT-15,RUBAN DE GUIDONS,,,,,,,,,guion ultraribbon antiglisse
+744,BHT-16,RUBAN DE GUIDONS,,,,,,,,,guion gravelribbon
+745,BHT-90S ,RUBAN DE GUIDONS,,,,,,,2,,bouchons argents
+746,BHT-91S ,RUBAN DE GUIDONS,,,,,,,2,noir,bouchons
+747,BHT-92S  ,RUBAN DE GUIDONS,,,,,,,2 ,,bouchons type carbone
+748,BHT-96,RUBAN DE GUIDONS,,,,,,,2,,bouchon  cintre à vis screwon chrome
+752,BKS-01 ,BEQUILLES,,,,,,,,noir/noir,béquille sidekick
+753,BKS-02K ,BEQUILLES,,,,,,,,noir/noir,"béquille quickkick kids version  16""~24"""
+754,BKS-04,BEQUILLES,,,,,,,,noir,"béquille multikick 26"" à 29"""
+755,BKS-05,BEQUILLES,,,,,,,,,"béquille centrale citykick 26""~29"""
+756,BKS-06,BEQUILLES,18.0,,,,,,,noir,"béquille latérale connectkick """
+757,BKS-07,BEQUILLES,40.0,,,,,,,black,"béquille latérale connectkick """
+758,BKS-08,BEQUILLES,,,,,,,,black,béquille latérale unikick
+762,BLS-70,ECLAIRAGES,,,,,,,,noir,"support éclairage av a sangle pour ""strike & scope"""
+763,BLS-75,ECLAIRAGES,,,,,,,,noir/noir/noir,v ecobeam
+764,BLS-76,ECLAIRAGES,,,,,,,,,v ecocombo + ar redlaser
+765,BLS-78,ECLAIRAGES,,,,,,,,,r rearlaser 3 diodes
+766,BLS-86,ECLAIRAGES,,,,,,,,,r sentry rechargeable iithium battery
+767,BLS-97,ECLAIRAGES,3200000.0,,,,,,,,batterie lithium polymer v ah  (lumen).
+768,BLS-98,ECLAIRAGES,,,,,,,,,"fixation centermount  pour strike,sniper,swat and scope"
+769,BLS-99,ECLAIRAGES,,,,,,,,,"support éclairage ""gomount"""
+770,BLS-121,ECLAIRAGES,,,,,,,,,"mini éclairage avant à pile ""spy"" 17 lum"
+771,BLS-121D,ECLAIRAGES,,,,,,,12 ,,"display mini éclairage avant à pile ""spy"" 17 lum"
+772,BLS-122,ECLAIRAGES,,,,,,,,,"mini éclairage arrière à pile ""spy"" 7 lum"
+773,BLS-122D,ECLAIRAGES,,,,,,,12,,"display mini éclairage arrière à pile ""spy"" 7 lum"
+774,BLS-123,ECLAIRAGES,,,,,,,,,"mini éclairage avec support av+ar à pile ""spycombo"""
+775,BLS-125,ECLAIRAGES,,,,,,,,,"mini éclairage avant rechargeable usb ""spy"" 40 lum"
+776,BLS-126,ECLAIRAGES,,,,,,,,,"mini éclairage arrière rechargeable usb ""spy"" 15 lum"
+777,BLS-127,ECLAIRAGES,,,,,,,,,"mini éclairage avec support av+ar rechargeable usb ""spycombo"""
+778,BLS-130,ECLAIRAGES,,,,,,,,,vant nanostrike 400
+779,BLS-131,ECLAIRAGES,,,,,,,,,vant  strike 500 lum
+780,BLS-132,ECLAIRAGES,,,,,,,,,vant  strike 1000 lum
+781,BLS-134,ECLAIRAGES,,,,,,,,,nanostrike 400 + éclairage ar signal
+782,BLS-136,ECLAIRAGES,,,,,,,,,vant signal
+783,BLS-137,ECLAIRAGES,,,,,,,,,rrière  signal
+784,BLS-138,ECLAIRAGES,,,,,,,,,vant + arrière  signal
+785,BLS-139,ECLAIRAGES,,,,,,,,,battery lithium bls131/132
+786,BLS-141,ECLAIRAGES,,,,,,,,,"v  rechargeable ""stud"""
+787,BLS-142,ECLAIRAGES,,,,,,,,,"rechargeable av + ar ""combo stud&spot"""
+788,BLS-146,ECLAIRAGES,,,,,,,,,"v  compact rechargeable ""spot"""
+789,BLS-147,ECLAIRAGES,,,,,,,,,"rrière compact rechargeable ""spot"""
+790,BLS-148,ECLAIRAGES,,,,,,,,,"compact rechargeable av+ar ""spotcombo"""
+791,BLS-149,ECLAIRAGES,,,,,,,,,compact rechargeable  spotduo
+792,BLS-149D,ECLAIRAGES,,,,,,,12,,boite d'éclairage  spotduo
+793,BLS-151,ECLAIRAGES,,,,,,,,,vant spark 2.0
+794,BLS-151D,ECLAIRAGES,,,,,,,,,display spark 2.0 avant
+795,BLS-152,ECLAIRAGES,,,,,,,,,rrière spark 2.0
+796,BLS-152D,ECLAIRAGES,,,,,,,,,display spark 2.0 arrière
+797,BLS-153,ECLAIRAGES,,,,,,,,,kit avant et arrière spark 2.0
+798,BLS-161,ECLAIRAGES,2000000.0,,,,,,,,vant nanostrike ah
+799,BLS-164,ECLAIRAGES,,,,,,,,,kit avant et arrière nanostrike 400  + bls152
+800,BLS-165,ECLAIRAGES,,,,,,,,,kit avant et arrière nanostrike 600  + bls137
+801,BLS-191,ECLAIRAGES,,,,,,,,,support éclairage av à vis tightfix
+802,BLS-192,ECLAIRAGES,,,,,,,,,support éclairage av silicone strapfix
+803,BLS-193,ECLAIRAGES,,,,,,,,noir,headlight mounting bracket crownfix
+807,BMP-29 ,POMPES A MAIN,,,,,,,,,"mortisseur ""irchock"""
+808,BMP-32,POMPES A MAIN,,,,,,,,,percuteur  co2 irspeed
+809,BMP-33S,POMPES A MAIN,135.0,,,,,,,,combinison d'un gonfleur coet d'une mini
+810,BMP-34,POMPES A MAIN,,,,,,,,,"percuteur co2 ""esyir"""
+811,BMP-35P,POMPES A MAIN,,,,,,,10,,crtridge co2 irtnks dvngtge pckge
+812,BMP-35 ,POMPES A MAIN,,,,,,,2 ,,crtouches co2 irtnks
+813,BMP-36 ,POMPES A MAIN,,,,,,,1 ,,crtouches  co2 irtnks
+814,BMP-36OEM,POMPES A MAIN,,,,,,, 200,,boite  crtouches co2 16gr irtnks
+815,BMP-36D,POMPES A MAIN,,,,,,,30 ,,crtouches  co2 irtnks displybox
+816,BMP-38,POMPES A MAIN,,,,,,XL,1 ,,crtouches co2 irtnks  25 grms
+817,BMP-38D,POMPES A MAIN,,,,,,XL, 30,,boite  crtouches co2 irtnks  25
+818,BMP-39,POMPES A MAIN,,,,,,,,,"mortisseur et pneumtique ""dulpressure"""
+819,BMP-48,POMPES A MAIN,100.0,,,,,,,noir,minipump nnorod telescopic
+820,BMP-49,POMPES A MAIN,185.0,,,,,,,noir,mini esyrod
+821,BMP-50,POMPES A MAIN,210.0,,,,,,,gris,"mini télescopique ""smuri"""
+822,BMP-53,POMPES A MAIN,,,,,,,,noir,"mini à pied téléscopique ""trveller telescopic"""
+823,BMP-54,POMPES A MAIN,250.0,,,,,,,,mini windwve composite
+824,BMP-55,POMPES A MAIN,,,,,,,,gris,mini windrush lu
+825,BMP-57,POMPES A MAIN,,,,,,,,gris,mini windrush lu vec mno
+826,BMP-90 ,POMPES A MAIN,,,,,,,,noir,mnométre digitl
+830,BFP-20,POMPES A PIED,,,,,,,,noir,irwve
+831,BFP-21,POMPES A PIED,,,,,,,,,irboost
+832,BFP-25,POMPES A PIED,,,,,,,,noir,irstrike vec tête dulhed
+833,BFP-27,POMPES A PIED,,,,,,,,,irsteel
+834,BFP-90 ,POMPES A PIED,,,,,,,,,kit embout
+835,BFP-93Noir,POMPES A PIED,,,,,,,,,tête de  double vlve
+836,BFP-94,POMPES A PIED,,,,,,,,,dptteur coudé 90° irpipe
+837,BFP-96,POMPES A PIED,,,,,,,,noir,tête de  longue dulhed 3.0
+841,BPD-01   ,CALES,,,,,,,,argent,"comptabiles spd ""click&go"""
+842,BPD-02F ,CALES,,,,,,,,noir,"""roadclip"" compatible look fixes"
+843,BPD-02A ,CALES,,,,,,,,rouge,"""roadclip"" compatible look angle 9°"
+844,BPD-04F,CALES,,,,,,,,noir,multiclip 2.0  0 degree  (multi compatible)
+845,BPD-04A,CALES,,,,,,,,rouge,multiclip 2.0  3 degree (multi compatible)
+846,BPD-06F,CALES,,,,,,,,noir,powerclip  0 degree  (compatibles spdsl)
+847,BPD-06A,CALES,,,,,,,,rouge,powerclip  3 degree ((compatibles spdsl)
+848,BPD-01D   ,CALES,,,,,,, 20,,"boite  paires de  vtt ""click&go"""
+850,BPD-14,PÉDALES,,,,,,,,noir,"uto vtt ""forcemount"" axe crmo"
+851,BPD-15 ,PÉDALES,,,,,,,,noir,"vtt ""mount&go"""
+852,BPD-16 ,PÉDALES,,,,,,,,noir/argent,"vtt "" bigfeet"""
+853,BPD-17 ,PÉDALES,,,,,,,,noir,"vtt roulements étanches ""classicride"""
+854,BPD-23,PÉDALES,,,,,,,,,"double fonction ""dualchoice ii"""
+855,BPD-30 ,PÉDALES,,,,,,,,noir,"courroies nylon  ""bike&tight"""
+856,BPD-32 ,PÉDALES,,,,,,,,noir,"""mountainhigh"""
+857,BPD-35,PÉDALES,,,,,,,,noir,composite trailri
+858,BPD-36,PÉDALES,,,,,,,,,"plateforme  ""coolride"""
+859,BPD-38,PÉDALES,,,,,,,,,plateforme enigma
+860,BPD-43 ,PÉDALES,,,,,,,,,trekking comfortlight
+861,BPD-44OEM,PÉDALES,,,,,,,,noir,trekking steadyrider (25 paires)
+862,BPD-44,PÉDALES,,,,,,,,,trekking steadyrider
+863,BPD-45,PÉDALES,,,,,,,,,trekking steadyrest
+864,BPD-46,PÉDALES,,,,,,,,noir,trekking ergori
+865,BPD-48,PÉDALES,,,,,,,,noir,trekking easybase 2.0
+866,BPD-51,PÉDALES,,,,,,,,noir,"uto route "" rebel""  mat"
+867,BPD-61,PÉDALES,,,,,,,,noir,double fonction dualchoice
+868,BPD-62,PÉDALES,,,,,,,,noir,dualchoice trail
+869,BPD-71,PÉDALES,,,,,,,,noir,clipless trailmount
+870,BPD-74,PÉDALES,,,,,,,,noir,clipless touchmount
+871,BPD-90 ,PÉDALES,,,,,,,,noir,"daptateur "" feetrest """
+872,BPD-95,PÉDALES,,,,,,M,,noir,"paire de calepieds butées ""nosetight"""
+876,BQR-01 ,BLOCAGES,,,,,,,,,"rapides ""wheelblock"""
+877,BQR-03,BLOCAGES,,,,,,,,noir,"rapides ""wheelfixed"""
+878,BQR-11,BLOCAGES,,,,,,,,noir,"rapide axe titanium ""lightblock"" 130"
+882,BSB-12S,SACOCHES,,,,,,S,,,elle torepack
+883,BSB-12M,SACOCHES,,,,,,M,,,selle storepack
+884,BSB-12L,SACOCHES,,,,,,L,,,see storepack
+885,BSB-13S,SACOCHES,,,,,,S,,,elle curvepack
+886,BSB-13M,SACOCHES,,,,,,M,,,selle curvepack
+887,BSB-13L,SACOCHES,,,,,,L,,,see curvepack
+888,BSB-14,SACOCHES,,,,,,,,noir/noir,racepack  mat
+889,BSB-16,SACOCHES,,,,,,,,,"tube supérieur ""toppack """
+890,BSB-17,SACOCHES,80.0,55.0,200.0,,,,,,"tube horizontal ""fuelpack"""
+891,BSB-18,SACOCHES,20.0,9.5,85.0,,0.75,,,,tube horizontal toptank
+892,BSB-19,SACOCHES,20.0,16.0,110.0,,1.5,,,,tube horizontal toptank x
+893,BSB-20,SACOCHES,150.0,,,8,0.95,,,,barbuddy bike packing
+894,BSB-24,SACOCHES,15.0,15.0,40.0,,0.75,,,,cadre lockpack
+895,BSB-31S,SACOCHES,,,,,,S,,,"elle  ""eaypack"""
+896,BSB-31M,SACOCHES,,,,,,M,,,"selle  ""easypack"""
+897,BSB-31L,SACOCHES,,,,,,L,,,"see  ""easypack"""
+898,BSB-33S,SACOCHES,,,,,,S,,,"elle ""peedpack"""
+899,BSB-33M,SACOCHES,,,,,,M,,,"selle ""speedpack"""
+900,BSB-33L,SACOCHES,,,,,,L,,,"see ""speedpack"""
+901,BSB-41,SACOCHES,130.0,40.0,80.0,,,S,,,"elle ""compacked"""
+902,BSB-41,SACOCHES,130.0,50.0,80.0,,,M,,,"selle ""copacked"""
+903,BSB-41,SACOCHES,130.0,85.0,80.0,,,L,,,"see ""compacked"""
+904,BSB-51,SACOCHES,,,,,,S,,,"kit  de elle + pompe + outil ""addlebag combi"""
+905,BSB-52,SACOCHES,,,,,,M,,,"kit  de selle + pope + outils ""saddlebag cobi"""
+906,BSB-96 ,SACOCHES,,,,,,,,,"couvre sac à dos ""backpack"""
+907,BSB-97,SACOCHES,40.0,24.0,220.0,,20,,,jaune,couvre sac étanche carriercover
+908,BSB-132,SACOCHES,,,,,25,,,,"latérale étanche ""portovault"""
+909,BSB-133,SACOCHES,,,,,,,,,"porte bagage ""bag trunkpack"""
+910,BSB-134,SACOCHES,36.0,16.0,160.0,,6,,,noir,porte bagage trunckpack
+911,BSB-137,SACOCHES,36.0,16.0,210.0,,5,,,gris,porte bagage   carrierpack extensions  6.5+
+912,BSB-138,SACOCHES,36.0,16.0,160.0,,6,,,gris,porte bagage  carrierpack
+913,BSB-139,SACOCHES,26.0,16.0,180.0,,5.5,,,gris,v avec fixation frontpack
+914,BSB-141,SACOCHES,,,,,10,,,,"cintre souple et étanche ""front fellow"""
+915,BSB-142,SACOCHES,,,,,,S,,,"tube horizontale ouple ""middle mate"""
+916,BSB-142,SACOCHES,,,,,,M,,,"tube horizontale souple ""iddle ate"""
+917,BSB-142,SACOCHES,,,,,,L,,,"tube horizontae soupe ""midde mate"""
+918,BSB-143,SACOCHES,,,,,10,,,,"tige de selle souple et étanche ""seat sidekick"""
+919,BSB-144,SACOCHES,20.0,11.0,55.0,,,,,,cornercaddy
+920,BSB-145,SACOCHES,30.0,14.0,140.0,,4,,,,bike packing stack pack with holder
+924,BSD-12,SELLES,,,,,,,,noir,"""sports multidensity"" homme"
+925,BSD-13,SELLES,,,,,,,,noir/black,"sports ""multidensity""  femme"
+926,BSD-26,SELLES,,,,,,,,,baseshape étanche
+927,BSD-56,SELLES,,,,,,,,noir,"""baseshape"""
+928,BSD-67,SELLES,162.0,,,,,,,noir,"femme cromo ""ladysport"""
+929,BSD-72,SELLES,,,,,,,,noir,"""sportcomfort"" anatomic"
+930,BSD-73,SELLES,,,,,,,,noir,"""sportcomfort"""
+931,BSD-86,SELLES,,,,,,,,noir,"sport ""basedensity"""
+932,BSD-91,SELLES,270.0,170.0,,,,,,noir,"city ""meander active"""
+933,BSD-92,SELLES,270.0,185.0,,,,,,noir,"city ""meander active"""
+934,BSD-93,SELLES,270.0,205.0,,,,,,noir,"city ""meander relaxed"""
+935,BSD-94,SELLES,270.0,225.0,,,,,,noir,"city ""meander upright"""
+936,BSD-102,SELLES,270.0,210.0,,,,,,noir,comfortplus relaxed à mémoire de forme
+937,BSD-103,SELLES,270.0,210.0,,,,,,noir,comfortplus relaxed cuir à mémoire de forme
+938,BSD-106,SELLES,270.0,230.0,,,,,,noir,"""comfortplus upright"" mémoire de forme"
+939,BSD-107,SELLES,270.0,230.0,,,,,,noir,comfortplus upright cuir à mémoire de forme
+940,BSD-111,SELLES,270.0,170.0,,,,,,,"ergonomic ""sportplus"" mémoire de forme"
+941,BSD-112,SELLES,270.0,185.0,,,,,,,"ergonomic femme ""sportplus"" mémoire de forme"
+942,BSD-113,SELLES,270.0,170.0,,,,,,noir,"""sportplus active leather"" mémoire de forme"
+943,BSD-114,SELLES,270.0,185.0,,,,,,noir,"""sportplus active leather"" mémoire de forme"
+944,BSD-115,SELLES,270.0,170.0,,,,,,noir,"""touringplus active"" mémoire de forme"
+945,BSD-116,SELLES,270.0,185.0,,,,,,noir,"""touringplus active"" mémoire de forme"
+946,BSD-121,SELLES,265.0,170.0,,,,,,noir,softshape active
+947,BSD-122,SELLES,265.0,185.0,,,,,,noir,softshape active
+948,BSD-124,SELLES,265.0,205.0,,,,,,noir,"""softshape relaxed"""
+949,BSD-125,SELLES,265.0,205.0,,,,,,noir,softshape relaxed anatomic
+950,BSD-127,SELLES,265.0,220.0,,,,,,noir,"""softshape upright"""
+951,BSD-128,SELLES,265.0,220.0,,,,,,noir,softshape upright anatomic
+952,BSD-130,SELLES,245.0,145.0,,,,,,noir,"performance courte ""spectrum"""
+953,BSD-131,SELLES,,,,,,,,,"performance ""spectrum""145"
+954,BSD-132,SELLES,,,,,,,,,"performance ""spectrum"" 155"
+955,BSD-133,SELLES,,,,,,,,,"performance ""spectrum"" 165"
+956,BSD-141,SELLES,,,,,,,,,"performance ""echelon vacuum"" 145"
+957,BSD-142,SELLES,,,,,,,,,"performance ""echelon vacuum"" 155"
+958,BSD-143,SELLES,,,,,,,,,"performance ""echelon vacuum"" 165"
+959,BSD-145,SELLES,,,,,,,,noir,"performance light ""phalanx"" 145*265, titanium rails,"
+960,BSD-146,SELLES,,,,,,,,noir,"performance light ""phalanx"" 155*265, titanium rails,"
+961,BSD-147,SELLES,,,,,,,,noir,"performance light ""phalanx"" 165*265, titanium rails,"
+962,BSD-151,SELLES,,,,,,,,noir,"vtt performance ""echo mtb""  145 crmo,"
+963,BSD-152,SELLES,,,,,,,,noir,"vtt performance ""echo mtb""  155 crmo,"
+964,BSD-154,SELLES,265.0,145.0,,,,,,noir,"performance ""convoy"" crmo"
+965,BSD-155,SELLES,265.0,155.0,,,,,,noir,"performance ""convoy"" crmo"
+969,BSG-48PH,LUNETTES,,,,,,,,,impress small ph
+970,BSG-51,LUNETTES,,,,,,,,,select optic
+971,BSG-54,LUNETTES,,,,,,,,,kids 1 écran
+972,BSG-56,LUNETTES,,,,,,,,,"polarisée ""town"""
+973,BSG-57,LUNETTES,,,,,,,,,"""avenger"""
+974,BSG-57PH,LUNETTES,,,,,,,,,"photocromique ""avenger"""
+975,BSG-58,LUNETTES,,,,,,,,,impress
+976,BSG-58PH,LUNETTES,,,,,,,,,"photocromique ""impress"""
+977,BSG-59,LUNETTES,,,,,,,,,"""impress reader"" avec zone lecture"
+978,BSG-59PH,LUNETTES,,,,,,,,,"photocromique ""impress reader"" avec zone lecture"
+979,BSG-61,LUNETTES,,,,,,,,,"""commander"""
+980,BSG-61PH,LUNETTES,,,,,,,,,commander ph photochromique
+981,BSG-62,LUNETTES,,,,,,,,,"""impulse"""
+982,BSG-62PH,LUNETTES,,,,,,,,,"""impulse"""
+983,BSG-63,LUNETTES,,,,,,,,,"""fullview"""
+984,BSG-63PH,LUNETTES,,,,,,,,,fullview ph
+985,BSG-64PH,LUNETTES,,,,,,,,,impulse reader ph avec zone lecture
+986,BSG-65,LUNETTES,,,,,,,,,fuse pc flash
+987,BSG-65,LUNETTES,,,,,,,,,fuse pc mlc verre revo
+988,BSG-65PH,LUNETTES,,,,,,,,,fuse ph
+989,BSG-66,LUNETTES,,,,,,,,noir,spectre pc flash  mat
+990,BSG-66PH,LUNETTES,,,,,,,,,spectre ph
+991,BSG-67PH,LUNETTES,,,,,,,,,spectre reader ph avec zone lecture
+992,BSG-68,LUNETTES,,,,,,,,,impress small pc
+993,BSG-68PH,LUNETTES,,,,,,,,,impress small ph
+997,BSM-03,SUPPORT SMART PHONE,,,,,,,,noir/gris,"+ étui i 6 ""patron"""
+998,BSM-04,SUPPORT SMART PHONE,,,,,,,,noir,"+ étui i 7 ""patron"""
+999,BSM-11S,SUPPORT SMART PHONE,124.0,64.0,10.0,,,,,,+ étui universel
+1000,BSM-11M,SUPPORT SMART PHONE,155.0,75.0,10.0,,,,,,+ étui universel mart
+1001,BSM-11L,SUPPORT SMART PHONE,158.0,80.0,10.0,,,,,,+ étui universel
+1002,BSM-21,SUPPORT SMART PHONE,110.0,160.0,,,,,,,"pochette transparente étanche ""sleeve"""
+1003,BSM-21XL,SUPPORT SMART PHONE,269.0,202.0,,,,,,,"pochette transparente étanche ""sleeve"""
+1004,BSM-41,SUPPORT SMART PHONE,,,,,,,,,"télé adhésif ""warden"" livré avec  cintre"
+1005,BSM-81,SUPPORT SMART PHONE,3300000.0,,,,,,,,batterie energypack + sortie usb + chargeur usb v ah
+1006,BSM-91,SUPPORT SMART PHONE,,,,,,,,,supplémentaire
+1007,BSM-92,SUPPORT SMART PHONE,,,,,,,,,entretoise headset
+1008,BSM-93,SUPPORT SMART PHONE,,,,,,,,,bouchon headset
+1009,BSM-94,SUPPORT SMART PHONE,,,,,,,,,déporté pour cintre
+1013,BSO-06,SOCQUETTES,,,,,,, 2,,"lot  paires  ""combifeet"""
+1014,BSO-07N,SOCQUETTES,,,,,,,,,highfeet 2.0
+1015,BSO-10,SOCQUETTES,,,,,,,,,"""technofeet"""
+1016,BSO-16,SOCQUETTES,,,,,,,,,soquette infrarouge firfeet
+1017,BSO-17,SOCQUETTES,,,,,,,,,soquettes thermofeet
+1021,BSP-14,TIGES DE SELLE,,,,,,,,noir,"""elitepost""  350"
+1022,BSP-15,TIGES DE SELLE,400.0,,,,,,,noir,"""toppost"""
+1023,BSP-20,TIGES DE SELLE,,,,,,,,noir,"skyscraper  25.0 à 34,9"
+1024,BSP-31,TIGES DE SELLE,,,,,,,,noir,"carbone i2 avec recul ""flypost"""
+1025,BSP-35,TIGES DE SELLE,394.0,27.2,,,,,,,"carbone roite ""flypost"""
+1026,BSP-41,TIGES DE SELLE,400.0,,,,,,,,suspension comfortpost
+1027,BSP-80,TIGES DE SELLE,,,,,,,,noir,"collier  serrage ""thestrangler"""
+1028,BSP-85,TIGES DE SELLE,,,,,,,,noir,collier  serrage lightstrangler
+1029,BSP-86,TIGES DE SELLE,,,,,,,,noir,collier  serrage rapi lightlever
+1030,BSP-87,TIGES DE SELLE,,,,,,,,noir,"collier  serrage rapi ""smoothlever"""
+1031,BSP-90 ,TIGES DE SELLE,,,,,,,,noir,"collier  serrrage pour érailleur ""shiftfix"""
+1032,BSP-94,TIGES DE SELLE,,,,,,,,,fixation plaque  care sur étrier  frein
+1033,BSP-95,TIGES DE SELLE,,,,,,,,,fixation plaque  care pour    ron
+1034,BSP-96,TIGES DE SELLE,,,,,,,,,fixation plaque  care pour    aero
+1035,BSP-97,TIGES DE SELLE,,,,,,,,,bague antiglisse
+1039,BTI-01 ,CHAMBRES A AIR,1.0,12.0,,,,,,,ir/./4 v & fv
+1040,BTI-11,CHAMBRES A AIR,1.75,16.0,,,,,,,ir /2.125 v & fv
+1041,BTI-18,CHAMBRES A AIR,1.75,18.0,,,,,,,ir /2.125 fv
+1042,BTI-20,CHAMBRES A AIR,,,,,,,,,innertube  20*1 fv
+1043,BTI-21,CHAMBRES A AIR,1.75,20.0,,,,,,,ir /2.125 v & fv
+1044,BTI-22,CHAMBRES A AIR,1.3,20.0,,,,,,,ir /8 fv
+1045,BTI-39,CHAMBRES A AIR,1.0,20.0,,,,,,,ir fv
+1046,BTI-41,CHAMBRES A AIR,1.9,24.0,,,,,,,ir /2.125 v & fv
+1047,BTI-42,CHAMBRES A AIR,1.3,24.0,,,,,,,ir /8 v
+1048,BTI-43,CHAMBRES A AIR,,,,,,,,,ir  24* 1.5/1.75 v
+1049,BTI-60,CHAMBRES A AIR,,,,,,,,,ir  650*18/23c fv
+1050,BTI-62,CHAMBRES A AIR,1.5,26.0,,,,,,,ir /1.75 v & fv
+1051,BTI-63,CHAMBRES A AIR,1.75,26.0,,,,,,,ir /2.35 v & fv
+1052,BTI-63,CHAMBRES A AIR,1.75,26.0,,,,,,,ir /2.35 fv 48mm & 60mm
+1053,BTI-65,CHAMBRES A AIR,1.3,26.0,,,,,,,ir /8 fv
+1054,BTI-66F,CHAMBRES A AIR,,,,,,,,,"ir   26*3,00  (ft) v"
+1055,BTI-68,CHAMBRES A AIR,2.1,27.5,,,,,,,ir  /2.35  fv & v
+1056,BTI-68+,CHAMBRES A AIR,2.4,27.5,,,,,,,ir  /2.80 fv 48mm
+1057,BTI-68F,CHAMBRES A AIR,,,,,,,,,"ir   27.5*3,0 (ft) fv & v"
+1058,BTI-68,CHAMBRES A AIR,48.0,,,,,,,,ir  */fv
+1059,BTI-71 ,CHAMBRES A AIR,20.0,700.0,,,,,,,ir /28c fv
+1060,BTI-71 ,CHAMBRES A AIR,20.0,700.0,,,,,,,ir /28c fv 48mm & 60mm
+1061,BTI-71D,CHAMBRES A AIR,48.0,,,,,,,,ir   */c fv nt  displybox pcs
+1062,BTI-72,CHAMBRES A AIR,20.0,700.0,,,,,,,ir sl /28c fv 48mm
+1063,BTI-72,CHAMBRES A AIR,20.0,700.0,,,,,,,ir sl /28c fv 60mm
+1064,BTI-72,CHAMBRES A AIR,20.0,700.0,,,,,,,ir sl /28c fv 80mm
+1065,BTI-82 ,CHAMBRES A AIR,48.0,,,,,,,,ir */c superlite fv
+1066,BTI-82 ,CHAMBRES A AIR,30.0,700.0,,,,,,,ir /43c v & fv
+1067,BTI-82 ,CHAMBRES A AIR,30.0,700.0,,,,,,,ir /43c fv 48mm
+1068,BTI-89,CHAMBRES A AIR,1.9,29.0,,,,,,,ir  /2.3  v 40mm & 48mm
+1069,BTI-89,CHAMBRES A AIR,2.4,29.0,,,,,,,"ir 29"" x2,40/2,80  fv 48mm"
+1070,BTI-89S,CHAMBRES A AIR,1.9,29.0,,,,,,,ir /2.3  fv superlite 48mm
+1072,BTI-91,FONDS DE JANTE,16.0,,,,,,,,hp cx
+1073,BTI-92,FONDS DE JANTE,,,,,,,,,"hp pour 29"" et 28"" 18/22/25"
+1074,BTI-93 ,FONDS DE JANTE,18.0,,,,,,,,"hp ""x"
+1075,BTI-94,FONDS DE JANTE,,,,,,,,,"hp 27,5""   2225"
+1076,BTI-95 ,FONDS DE JANTE,18.0,,,,,,,rouge,hp cx/  tr
+1077,BTI-95 ,FONDS DE JANTE,25.0,,,,,,,,hp cx/  tr
+1078,BTI-96 ,FONDS DE JANTE,18.0,,,,,,,rouge,hp cx/  tr
+1079,BTI-96 ,FONDS DE JANTE,25.0,,,,,,,rouge,hp cx/  tr
+1080,BTI-98,FONDS DE JANTE,2000.0,18000.0,,,,,,blanc,hp 16/
+1081,BTI-98,FONDS DE JANTE,2000.0,25.0,,,,,,blanc,hp 22/
+1083,BTI-97 ,PROLONGATEURS VALVE,50.0,,,,,,,,extention
+1084,BTI-99,PROLONGATEURS VALVE,80.0,,,,,,,,extention. de  / extend
+1085,BTI-150,PROLONGATEURS VALVE,4000.0,18.0,,,,,,,fond de jante pour tubeless
+1086,BTI-150,PROLONGATEURS VALVE,4000.0,22.0,,,,,,,fond de jante pour tubeless
+1087,BTI-150,PROLONGATEURS VALVE,4000.0,25.0,,,,,,,fond de jante pour tubeless
+1088,BTI-150,PROLONGATEURS VALVE,4500.0,34.0,,,,,,,fond de jante pour tubeless
+1089,BTI-151,PROLONGATEURS VALVE,10000.0,18.0,,,,,,,fond de jante pour tubeless
+1090,BTI-151,PROLONGATEURS VALVE,10000.0,22.0,,,,,,,fond de jante pour tubeless
+1091,BTI-151,PROLONGATEURS VALVE,10000.0,25.0,,,,,,,fond de jante pour tubeless
+1092,BTI-151,PROLONGATEURS VALVE,10000.0,28.0,,,,,,,fond de jante pour tubeless
+1093,BTI-151,PROLONGATEURS VALVE,10000.0,31.0,,,,,,,fond de jante pour tubeless
+1094,BTI-151,PROLONGATEURS VALVE,10000.0,34.0,,,,,,,fond de jante pour tubeless
+1095,BTI-159,PROLONGATEURS VALVE,48.0,,,,,,,,stubeless 2 pieces
+1096,BTI-159,PROLONGATEURS VALVE,80.0,,,,,S,,,tuble 2 pc
+1100,BTL-05 ,OUTILLAGES,,,,,,,,noir,"dérivechaîne ""nautilus"" ii"
+1101,BTL-10D,OUTILLAGES,,,,,,,,,"clé à pédale ""hitorque"" double ouvertures"
+1102,BTL-11S,OUTILLAGES,,,,,,,,,"fouet à chaine ""turntable"" 11 vitesses"
+1103,BTL-11,OUTILLAGES,,,,,,,,noir,"fouet à chaîne ""turntable"""
+1104,BTL-12S ,OUTILLAGES,,,,,,,,noir,"outil boîtier ""lockout"" compatible shimano"
+1105,BTL-12C ,OUTILLAGES,,,,,,,,noir,"outil boîtier ""lockout"" compatible campagnolo"
+1106,BTL-13 ,OUTILLAGES,10.0,,,,,,,noir,"clé hexagonale ""hexagon"" //"
+1107,BTL-14 ,OUTILLAGES,,,,,,,,noir,"extracteur ""powerpull"""
+1108,BTL-15,OUTILLAGES,,,,,,,,,"clé à rayons ""turner"" ii"
+1109,BTL-16,OUTILLAGES,,,,,,,,noir,"pince coupe cables ""fastcut"""
+1110,BTL-17 ,OUTILLAGES,,,,,,,,noir,"brosse pour nettoyer cassettes ""toothbrush"""
+1111,BTL-18,OUTILLAGES,450000.0,,,,,,,noir,"bidon porteoutils ""tools & tubes"""
+1112,BTL-18,OUTILLAGES,630000.0,,,,,,,noir,"bidon porteoutils ""tools & tubes"""
+1113,BTL-20L,OUTILLAGES,,,,,,,,noir,"clé pour boîtier ""pullstar"" extra longue"
+1114,BTL-21 ,OUTILLAGES,,,,,,,,transparent,"nettoyeur de chaîne ""bright&fresh"""
+1115,BTL-24 ,OUTILLAGES,,,,,,,,noir,"outil pour boîtier  ""multihook"""
+1116,BTL-25,OUTILLAGES,17.0,,,,,,,noir,"clé à cône ""conefix"" ////"
+1117,BTL-25S,OUTILLAGES,17.0,,,,,,,,"kit de clés à cone ""coneset"" (////)"
+1118,BTL-26 ,OUTILLAGES,,,,,,,,noir,"crochet de rangement ""parkinghook"""
+1119,BTL-27L ,OUTILLAGES,,,,,,,,noir,"clé pour boîtier ""bracketgrip"" new xtrxtda extra long"
+1120,BTL-28 ,OUTILLAGES,5.6,,,,,,,noir,"kit clés hexagonale  ""threestar"" , & ."
+1121,BTL-28C,OUTILLAGES,4.0,,,,,,,,"kit clés étoile ""combostar"" t25//"
+1122,BTL-28T ,OUTILLAGES,,,,,,,,noir,"clé ""torxstar"" t25, t30,t39"
+1123,BTL-32L,OUTILLAGES,,,,,,,,,"clé pour visserie plateaux ""boldgrip"" extra longue"
+1124,BTL-36 ,OUTILLAGES,,,,,,,,,"pied de réparation ""profimount"""
+1125,BTL-38 ,OUTILLAGES,,,,,,,,,"clé  boîtier ""ultragrip""pour campa ultratorque"
+1126,BTL-40S ,OUTILLAGES,,,,,,S,,,"outil pliant ""minifold"""
+1127,BTL-45,OUTILLAGES,4.0,,,,,,,,"clé héxagonale avec poignée ""hex""  ///"
+1128,BTL-45 ,OUTILLAGES,5.0,,,,,,,,"clé héxagonale avec poignée ""hex""  5 /"
+1129,BTL-45 ,OUTILLAGES,8.0,,,,,,,,"clé héxagonale avec poignée ""hex"""
+1130,BTL-45S,OUTILLAGES,,,,,,,,,"kit de clés héxagonales avec poignée ""hex"""
+1131,BTL-46 ,OUTILLAGES,,,,,,,,,"clé ""torxt"""
+1132,BTL-46,OUTILLAGES,,,,,,,,,"clé ""torxt40"
+1133,BTL-48S ,OUTILLAGES,,,,,,S,,,"outil multifonction ""primefold"""
+1134,BTL-48M ,OUTILLAGES,,,,,,M,,,"outil ultifonctions ""priefold"""
+1135,BTL-48L ,OUTILLAGES,,,,,,L,,,"outi mutifonctions ""primefod"""
+1136,BTL-48XL,OUTILLAGES,,,,,,XL,,,"outil multifonctions ""primefold"""
+1137,BTL-49  ,OUTILLAGES,100.0,,,,,,,,"xe pour fourche  ""forkgrip"""
+1138,BTL-50  ,OUTILLAGES,130.0,,,,,,,,"xe repose chaîne  ""chaingrip""  &"
+1139,BTL-54 ,OUTILLAGES,,,,,,,,,pince coupe cable cutter
+1140,BTL-55,OUTILLAGES,,,,,,,,,dérive chaine prof. proficonnect
+1141,BTL-56,OUTILLAGES,,,,,,,,,clé de direction
+1142,BTL-73,OUTILLAGES,,,,,,,,,clé dynamométrique + 7 douilles
+1143,BTL-74,OUTILLAGES,,,,,,,,,clé pour dévoiler disque
+1144,BTL-77,OUTILLAGES,,,,,,,,,pince pour démonter et remonter les attaches rapi
+1145,BTL-78,OUTILLAGES,,,,,,,,,pince pour monter les pneus difficiles
+1146,BTL-79,OUTILLAGES,,,,,,,,,démonte pneu master
+1147,BTL-80,OUTILLAGES,,,,,,,,,kit de reparation leakfix adhesive
+1148,BTL-80D,OUTILLAGES,,,,,,,50 ,,kit de reparation leakfix adhesive
+1149,BTL-81,OUTILLAGES,,,,,,,3 ,,"démontes pneus ""easylift"""
+1150,BTL-81D,OUTILLAGES,3.0,48.0,,,,,,noir/bleu/rouge/vert,boite de démontes pneus
+1151,BTL-91,OUTILLAGES,,,,,,,16,,malette à outils allroundkit
+1152,BTL-92,OUTILLAGES,,,,,,,10 ,,malette à outils basekit
+1153,BTL-93,OUTILLAGES,,,,,,,,,"support vélo mural ""wallmount"""
+1154,BTL-95,OUTILLAGES,,,,,,,,,malette pour démonter/remonter roulements press fit
+1155,BTL-101,OUTILLAGES,6.0,,,,,,,,clé pour manivelles dualforce   /
+1156,BTL-102,OUTILLAGES,,,,,,,,,"clé pour vis de réglage pédalier hollowtech ""crankgrip"""
+1157,BTL-103,OUTILLAGES,,,,,,,,,outil de mesure pour les roulements de direction
+1158,BTL-104,OUTILLAGES,,,,,,, 1,,"clé à embout /2"" ""driveforce"""
+1159,BTL-105,OUTILLAGES,,,,,,, 16,,clé 1/2 pour monter et démonter boitier à roulements externes  cannelures.
+1160,BTL-105D,OUTILLAGES,,,,,,,,,clé 1/2 pour monter et démonter boitier sram dub
+1161,BTL-106S,OUTILLAGES,,,,,,,,,"clé 1/2""pour monter et démonter les cassettes shi."
+1162,BTL-107S,OUTILLAGES,,,,,,,,,"clé 1/2""avec guide pour monter et démonter les cassettes shi."
+1163,BTL-108C,OUTILLAGES,,,,,,,,,"clé 1/2""avec guide pour monter et démonter les cassettes campagnolo"
+1164,BTL-109,OUTILLAGES,,,,,,,,,"clé 1/2""avec guide pour monter et démonter les boitiers octalink et isis"
+1165,BTL-110,OUTILLAGES,8.0,,,,,,,,embout /exagonal
+1166,BTL-111,OUTILLAGES,10.0,,,,,,,,embout /exagonal
+1167,BTL-112,OUTILLAGES,,,,,,,,,kit pour monter et démonter boitiers et cassettes
+1168,BTL-113,OUTILLAGES,,,,,,, 24,,outil pour extraire les roulements utilisant un axe
+1169,BTL-114,OUTILLAGES,,,,,,,,,"outil pour extraire les roulements pressfit, bb30"
+1170,BTL-115,OUTILLAGES,,,,,,,,,outil pour poussez les pistons hydrauliques
+1171,BTL-116,OUTILLAGES,,,,,,,,,"outil pour boitier shimano dura ace bb9000, xtr 980 bb93,ult 6800, 105 5800 bbr60"
+1172,BTL-118,OUTILLAGES,10.0,,,,,,,,"kit clés allen ""hexset"" pcs (////////)"
+1173,BTL-119,OUTILLAGES,,,,,,,,,"tournevis dynamométrique en t ""torquefix""  4/5/6nm (livré avec embouts)"
+1174,BTL-120,OUTILLAGES,,,,,,,,,"clé boitier pédalier megaevo ""bracketgrip"""
+1175,BTL-121,OUTILLAGES,,,,,,,,,"crochet pour rapprocher chaine ""handyhook"""
+1176,BTL-122,OUTILLAGES,,,,,,,,,"pince à chaine pour démonter cassette ""trexgrip"" 11 vitesses"
+1177,BTL-123,OUTILLAGES,,,,,,,,,"kit de transport pour frein disque ""chainholder"" thrugrip"
+1178,BTL-125,OUTILLAGES,,,,,,,,,"controleur usure de chaine multifonction ""chainchecker"""
+1179,BTL-126,OUTILLAGES,,,,,,,,,"crochet vélo oversize ""parkinglot"""
+1180,BTL-128E,OUTILLAGES,,,,,,,,,"clé de serrage pignon bosch ""lockout"""
+1181,BTL-141S  ,OUTILLAGES,,,,,,S,,,"outil multifonction ""maxifold"" 10 fonction"
+1182,BTL-141M  ,OUTILLAGES,,,,,,M,,,"outil ultifonctions ""axifold"" 16 fonctions"
+1183,BTL-141L ,OUTILLAGES,,,,,,L,,,"outi mutifonctions ""maxifod"" 18 fonctions"
+1184,BTL-143  ,OUTILLAGES,,,,,,,,,"outil pliant torx ""torxfold"""
+1185,BTL-145,OUTILLAGES,,,,,,,,,"outil multifonction ""matchbox basic"""
+1186,BTL-145A,OUTILLAGES,,,,,,,,,"outil multifonction ""matchbox air"" + embout cartouche co2"
+1187,BTL-145C,OUTILLAGES,,,,,,,,,"outil multifonction ""matchbox chain"""
+1188,BTL-150,OUTILLAGES,,,,,,,,noir,"support vélo""wallmount deluxe"""
+1189,BTL-160,OUTILLAGES,,,,,,,,,"outil pour presser les embouts de durite hydraulique ""needledriver"""
+1190,BTL-161,OUTILLAGES,,,,,,,,,"coupe durite hydraulique ""hosecutter"""
+1191,BTL-173,OUTILLAGES,,,,,,,,,"clé dynamomètrique luxe + douilles ""torqueset deluxe"
+1192,BTL-181,OUTILLAGES,,,,,,,,noir,"sacoche outils porte bidon ""softcase"""
+1196,BUW-07,SOUS VÊTEMENT,,,,,,,,blanc,été coollayer
+1197,BUW-09,SOUS VÊTEMENT,,,,,,,,blanc,"mailles ajourées ""meshlayer"""
+1198,BUW-10,SOUS VÊTEMENT,,,,,,,,blanc,"ss manches mailles ajourées ""meshlayer"""
+1199,BUW-20,SOUS VÊTEMENT,,,,,,,,,"hiver infrarouge ""firlayer"" mixte"
+1200,BUW-61,SOUS VÊTEMENT,,,,,,,,chamois/noir,"short mi long avec fond de  ""innershort pro"""
+1201,BUW-65,SOUS VÊTEMENT,,,,,,,,blanc,"short avec peau ""innershort"""
+1205,BWB-01,BIDONS,550000.0,,,,,,,,l. comptank
+1206,BWB-01D,BIDONS,550000.0,,,,,,,,boite de l. comptank
+1207,BWB-05,BIDONS,750000.0,,,,,,,,l. comptank
+1208,BWB-05D,BIDONS,750000.0,,,,,,,,display de l. comptank
+1209,BWB-11,BIDONS,550000.0,,,,,,,,l. avec valve autotank
+1210,BWB-12,BIDONS,550000.0,,,,,,,,l avec valve autotank + bouchonmudcap autoclose
+1211,BWB-15,BIDONS,750000.0,,,,,,,,l. avec valve autotank
+1212,BWB-16,BIDONS,750000.0,,,,,,,,l avec valve autotank + bouchonmudcap autoclose
+1213,BWB-52,BIDONS,500000.0,,,,,,,,thermo l. thermotank ac
+1214,BWB-53,BIDONS,500000.0,,,,,,,,thermo l réfléchissant
+1218,BWG-11  ,GANTS HIVER,,,,,,,,noir,léger raceshield
+1219,BWG-21,GANTS HIVER,,,,,,ENFANT,,noir,controlzone
+1220,BWG-21,GANTS HIVER,,,,,,,,noir,d' controlzone
+1221,BWG-22,GANTS HIVER,,,,,,,,noir,d' coldshield
+1222,BWG-26,GANTS HIVER,,,,,,,,noir,d' neoshield
+1223,BWG-27,GANTS HIVER,,,,,,UNI-TAILLE,,gris,"d' infrarouge "" innershield"""
+1224,BWG-31,GANTS HIVER,,,,,,,,,coldshield reflective
+1225,BWG-32,GANTS HIVER,,,,,,,,jaune,watershield
+1226,BWG-33,GANTS HIVER,,,,,,,,,raceshield wb 2.0
+1227,BWG-34,GANTS HIVER,,,,,,,,,subzero full fingers
+1228,BWG-35,GANTS HIVER,2.0,2.0,,,,,,,subzero
+1232,BWS-02B ,COUVRE-CHAUSSURES,,,,,,,,black,shoecovers heavyduty oss 37/38
+1233,BWS-04,COUVRE-CHAUSSURES,,,,,,,,,shoecovers hardwear 47/48
+1234,BWS-12 ,COUVRE-CHAUSSURES,,,,,,,,noir,ultrawear
+1235,BWS-20,COUVRE-CHAUSSURES,,,,,,L,,noir,urbanshied
+1236,BWS-21,COUVRE-CHAUSSURES,,,,,,,,,freeze
+1237,BWS-23,COUVRE-CHAUSSURES,,,,,,,,jaune,waterflex 3.0  fluo
+1238,BWS-25,COUVRE-CHAUSSURES,,,,,,,,,ultrawear zipperless
